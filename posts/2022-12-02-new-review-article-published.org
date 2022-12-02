@@ -1,0 +1,28 @@
+#+title: New review article published
+#+date: <2022-12-02 21:02>
+#+description: 
+#+filetags: articles
+I have recently published a review of research on mathematical knowledge for teaching in Africa. The full title of the article is “Mathematical knowledge for teaching in Africa 2014–2021: A review of literature”, and the article is published in African Journal of Teacher Education and Development.
+
+The article provides a systematic review of research, and the entire review process (including search criteria, coding, and analysis) is available in a public Github repository: https://github.com/rmosvold/mkt-africa
+
+Below is the structured abstract of the review article:
+
+#+begin_quote
+Background: A previous review of literature on mathematical knowledge for teaching in Africa indicated that most studies were small, qualitative studies that did not apply existing measures. The present literature review explores trends in more recent research from 2014 to 2021.
+
+Aim: The aim of the literature review is to investigate trends in peer-reviewed journal articles on mathematical knowledge for teaching in Africa from 2014 to 2021.
+
+Setting: A literature review of research on mathematical knowledge for teaching in Africa between 2014–2021.
+
+Methods: After a three-step search and initial coding, 24 studies were included in the review. Studies were coded in terms of genre, type of study, research problem, sample size, instruments, level and experience of teachers, location of the study and frameworks applied.
+
+Results: As compared with the previous literature review, there was variation in sample size, genre of the studies, as well as in the level and experience of participating teachers, and this indicates a field in positive development. Yet, there is a significant geographical lack of balance, as most studies were conducted in South Africa. In addition, there is a predominance of studies that investigate what knowledge teachers have, and many studies provide a deficit view of teachers’ lack of knowledge.
+
+Conclusion: Based on the trends in the studies reviewed, a shift in focus from teachers and their (lack of) knowledge to the knowledge demands of teaching is suggested.
+
+Contribution: An emphasis on exploring what is involved in teaching mathematics in African contexts might provide a productive turn in research that would be of international interest and significance.
+#+end_quote
+
+* Reference
+Mosvold, R. (2022). Mathematical knowledge for teaching in Africa 2014–2021: A review of literature. African Journal of Teacher Education and Development, 1(1), a10. https://doi.org/10.4102/ajoted.v1i1.10
