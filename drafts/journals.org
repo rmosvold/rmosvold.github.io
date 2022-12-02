@@ -36,4 +36,4 @@ Below are some major journals of mathematics education:
 30. [[http://elib.mi.sanu.ac.rs/pages/browse_publication.php?db=tm][The Teaching of Mathematics]] (Level 1)
 31. [[http://link.springer.com/journal/11858][ZDM]] (Level 2)
 
-The levels refer to the [[https://kanalregister.hkdir.no/publiseringskanaler/Forside.action;jsessionid=KSk1WTEIkhcwuvRiUKcEHWZ+.undefined?request_locale=en][Norwegian register for Norwegian journals and publishers]], where level 2 is the highest level (top 20% journals in a field).     
+The levels refer to the [[https://kanalregister.hkdir.no/publiseringskanaler/Forside.action;jsessionid=KSk1WTEIkhcwuvRiUKcEHWZ+.undefined?request_locale=en][Norwegian register for Norwegian journals and publishers]], where level 2 is the highest level (top 20% journals in a field).

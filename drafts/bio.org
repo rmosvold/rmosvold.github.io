@@ -14,6 +14,8 @@ My name is Reidar Mosvold, and I am [[https://www.uis.no/nb/profile/1982][profes
 2. the work of leading mathematical discussions, and
 3. methods for studying mathematics teaching.
 
+-----
+
 #+begin_quote
 For from him and through him and to him are all things. To him be glory forever. Amen. (Romans, 11:36)
 #+end_quote
