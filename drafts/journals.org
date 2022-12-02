@@ -2,7 +2,8 @@
 #+date: <2022-12-02 20:33>
 #+description: 
 #+filetags:
-* Major journals in mathematics education
+Below are some of the major journals of mathematics education:
+
 1. [[http://www.tandfonline.com/loi/rmse20#.VKVzU4qG_B8][African Journal of Mathematics, Science and Technology Education]] (Level 1)
 2. [[http://www.tandfonline.com/toc/ucjs20/current#.VKVz64qG_B8][Canadian Journal of Science, Mathematics and Technology Education]] (Level 1)
 3. [[http://link.springer.com/journal/10649][Educational Studies in Mathematics]] (Level 2)
