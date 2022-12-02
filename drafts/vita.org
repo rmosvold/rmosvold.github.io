@@ -2,7 +2,7 @@
 #+date: <2022-12-02 19:55>
 #+description: 
 #+filetags:
-
+ 
 #+begin_center
 *Reidar Mosvold* \\
 Professor of Mathematics Education \\

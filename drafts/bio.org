@@ -2,7 +2,7 @@
 #+date: <2022-12-02 20:03>
 #+description: 
 #+filetags:
-
+ 
 #+begin_export html
 <figure style="float:right">
 <img src="/static/me.jpg" alt="A picture of me" width="200px"/>
