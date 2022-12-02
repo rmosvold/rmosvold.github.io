@@ -13,7 +13,7 @@ University of Stavanger \\
 
 #+begin_center
 reidar.mosvold@uis.no \\
-https://rmosvold.com
+[[https://rmosvold.github.io][https://rmosvold.github.io]]
 #+end_center
 
 -----
