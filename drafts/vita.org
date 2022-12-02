@@ -1,0 +1,487 @@
+#+title: Vita
+#+date: <2022-12-02 19:55>
+#+description: 
+#+filetags:
+
+#+begin_center
+Reidar Mosvold \\
+Professor of Mathematics Education \\
+Department of Education and Sports Science \\
+University of Stavanger \\
+4036 Stavanger, Norway \\
+#+end_center
+
+#+begin_center
+reidar.mosvold@uis.no \\
+https://rmosvold.com
+#+end_center
+
+-----
+
+* PROFESSIONAL EXPERIENCE
+- 2016–: Full Professor of Mathematics Education, Department of Education and Sports Science, University of Stavanger, Stavanger, Norway. 
+- 2018–: Professor II, NTNU, The Norwegian Centre for Mathematics Education
+- 2017–2018: Visiting Fulbright Scholar, University of Michigan, USA. 
+- 2016–2017: Associate Professor II, NTNU, The Norwegian Centre for Mathematics Education. 
+- 2013–2016: Associate Professor of Mathematics Education, Department of Education and Sports Science, University of Stavanger, Stavanger, Norway.
+- 2006–2013: Associate Professor of Mathematics Education, Department of Early Childhood Education, University of Stavanger, Stavanger, Norway.
+- 2005–2006: Researcher, Telemark Educational Research, Notodden, Norway.
+- 2002–2005: PhD-student, Telemark Educational Research, Notodden, Norway.
+- 2001–2002: Mathematics teacher, Aftenskolen, Kristiansand, Norway. 
+- 2001 (Fall): Mathematics teacher, Vågsbygd videregående skole, Kristiansand, Norway.
+
+* EDUCATION/DEGREES
+- DPhil: Mathematics in everyday life – a study of beliefs and actions. Department of Mathematics, University of Bergen, Bergen, Norway, 2006.
+- M.S.: Det genetiske prinsipp i matematikkdidaktikk [The genetic principle in mathematics education]. Department of Mathematics, Agder University College, Kristiansand, Norway, 2001.
+- M.A. equivalent: Agder University College, Kristiansand, Norway, 1999.
+
+* RESEARCH AREAS
+Developing mathematics teaching, mathematical knowledge for teaching, leading mathematical discussions, positioning of students, methods for studying teaching.
+
+* PUBLICATIONS
+** Edited Books and Volumes
+- Kullberg, A., Björklund, C., & Mosvold, R. (Eds.) (2021). Practice-based research on mathematics teaching. Special issue in Nordic Studies in Mathematics Education. 
+- Mosvold, R., & Hoover, M. (Eds.) (2016). Mathematical knowledge for teaching: Developing measures and measuring development. Special issue in The Mathematics Enthusiast, 13(1–2).
+- Fauskanger, J., & Mosvold, R. (Eds.) (2014). Mathematical knowledge for teaching in the Nordic region. Special issue in Nordic Studies in Mathematics Education, 19(3–4).
+- Mosvold, R., & Alvestad, M. (Eds.) (2011). International Journal of Early Childhood, 43(3).
+- Fauskanger, J., Mosvold, R., & Reikerås, E. (Eds.) (2009). Å regne i alle fag. Oslo: Universitetsforlaget.
+- Bekken, O.B., & Mosvold, R. (Eds.) (2003). Study the Masters. Gothenburg: National Center for Mathematics Education.
+
+** Peer-reviewed Journal Articles
+1. Wæge, K., & Mosvold, R. (major revisions). Unpacking the practice of anticipating students' mathematical thinking. /Teaching and Teacher Education/.
+2. Hoover, M., Dahlgren, M., Mosvold, R., & Goffney, I. (major revisions). Mathematics teacher educators' thinking about teaching and justice as pivotal to thinking about mathematical knowledge for teaching. /Journal of Mathematics Teacher Education/.
+3. Mosvold, R., Wæge, K., & Fauskanger, J. (revisions). Teacher Time Out as a Site for Studying Mathematical Knowledge for Teaching. /The Journal of Mathematical Behavior/. 
+4. Mosvold, R. (2022). Mathematical knowledge for teaching in Africa 2014–2021: A review of literature. /African Journal of Teacher Education and Development/, 1(1), a10. https://doi.org/10.4102/ajoted.v1i1.10 
+5. Gobede, F., & Mosvold, R. (2022). Studying dilemmas of mathematics teaching in Southern Africa.  /African Journal of Teacher Education and Development, 1/ (1), a4. https://doi.org/10.4102/ajoted.v1i1.4
+6. Gobede, F., Mosvold, R., & Jakobsen, A. (2022). Comparing two frameworks for exploring the quality of mathematics teaching in a Malawian primary classroom. African Journal of Research in Mathematics, Science and Technology Education. https://doi.org/10.1080/18117295.2022.2100662
+7. Justnes, C. N., & Mosvold, R. (2022). Scrutinizing Norwegian kindergarten teachers’ considerations about talk moves. Nordic Studies in Mathematics Education, 27(2), 5–20.
+8. Maugesten, M., Mosvold , R., & Fauskanger , J. (2021). Matematikklæreres refleksjoner om egne undervisningsutfordringer. Acta Didactica Norden, 15(1). https://doi.org/10.5617/adno.8640  
+9. Jankvist, U.T., Clark, K.M., & Mosvold, R. (2020). Developing mathematical knowledge for teaching teachers: potentials of history of mathematics in teacher educator training. Journal of Mathematics Teacher Education, 23(3), 311–332. doi:10.1007/s10857-018-09424-x
+10. Mosvold, R., Fauskanger, J., & Wæge, K. (2018). Fra undervisningskunnskap i matematikk til kjernepraksiser – endringer i grunnskolelærerutdanningens matematikkfag. Uniped, 41(4), 401–411.
+11. Tyskerud, A., & Mosvold, R. (2018). Scrutinizing teacher-learner interactions on volume. Nordic Studies in Mathematics Education, 23(2), 49–67. 
+12. Larssen, D.L.S., Cajkler, W., Mosvold, R., Bjuland, R., Helgevold, N., Fauskanger, J., Wood, P., Baldry, F., Jakobsen, A., Bugge, H.E., Næsheim-Bjørkvik, G., & Norton, J. (2018). A literature review of lesson study in initial teacher education: perspectives about learning and observation. International Journal for Lesson & Learning Studies, 7(1), 8–22.
+13. Mosvold, R. (2017). Studier av undervisningskunnskap i matematikk: Internasjonale trender og nordiske bidrag. Nordic Studies in Mathematics Education, 22(2), 51–69.
+14. Sæbbe, P.-E. & Mosvold, R. (2016). Initiating a conceptualization of the professional work of teaching mathematics in kindergarten in terms of discourse. Nordic Studies in Mathematics Education, 21(4), 79–93.
+15. Fauskanger, J. & Mosvold, R. (2016). Lærerarbeidets matematiske undervisningsoppgaver. Nordic Studies in Mathematics Education, 21(3), 73–88.
+16. Mosvold, R., Hanssen, B., & Fauskanger, J. (2016). På jakt etter fagdidaktikk i nasjonale retningslinjer for grunnskolelærerutdanningens matematikkfag. Acta Didactica Norge, 10(3), Art. 6.
+17. Fauskanger, J. & Mosvold, R. (2016). Why are mathematics teachers “not sure”? Mathematics Teacher Education and Development, 18(2), 107–123.
+18. Mosvold, R. & Bjuland, R. (2016). Positioning in identifying narratives of/about pre-service mathematics teachers in field practice. Teaching and Teacher Education, 58, 90–98. DOI: 10.1016/j.tate.2016.05.005
+19. Fauskanger, J., Mosvold, R., & Kristensen, M. (2016). Født sånn, eller blitt sånn? Matematikklæreres oppfatninger om evnen til å undervise. Acta Didactica Norge, 10(1), Art. 7.
+20. Mosvold, R. & Ohnstad, F. O. (2016). Profesjonsetiske perspektiver på læreres omtaler av elever. Norsk Pedagogisk Tidsskrift, 100(1), 26–36.
+21. Hoover, M., Mosvold, R., Ball, D. L., & Lai, Y. (2016). Making progress on mathematical knowledge for teaching. The Mathematics Enthusiast, 13(1–2), 3–34. 
+22. Bjuland, R. & Mosvold, R. (2015). Lesson study in teacher education: learning from a challenging case. Teaching and Teacher Education, 52, 83–90.
+23. Mosvold, R. (2015). Lærerstudenters tingliggjøring av elevers prestasjoner. Tidsskriftet FoU i praksis, 9(1), 51–66.
+24. Fauskanger, J. & Mosvold, R. (2015). En metodisk studie av innholdsanalyse – med analyser av matematikklæreres undervisningskunnskap som eksempel. Nordic Studies in Mathematics Education, 20(2), 79–96.
+25. Mosvold, R. & Fauskanger, J. (2015). Kartlegging av læreres kunnskap er ikke enkelt. Acta Didactica Norge, 9(1), Art.nr. 7.
+26. Mosvold, R. & Bjuland, R. (2015). Lærerstudenters utvikling av matematikklæreridentitet. Norsk Pedagogisk Tidsskrift, 99(2), 97–109.
+27. Jankvist, U. T., Mosvold, R., Fauskanger, J., & Jakobsen, A. (2015). Analysing the use of history of mathematics through MKT. International Journal of Mathematical Education in Science and Technology, 46(4), 495–507.
+28. Bjuland, R. & Mosvold, R. (2014). Lærerstudenters refleksjoner om utvikling av læringsfellesskap. Uniped – Tidsskrift for Universitets- og Høgskolepedagogikk, 37(4), 46–57.
+29. Hoover, M., Mosvold, R. & Fauskanger, J. (2014). Common tasks of teaching as a resource for measuring professional content knowledge internationally. Nordic Studies in Mathematics Education, 19(3–4), 7–20.
+30. Fauskanger, J. & Mosvold, R. (2014). Studying teachers’ knowledge by the use of multiple-choice items. The case of “I’m not sure”. Nordic Studies in Mathematics Education, 19(3–4), 41–55.
+31. Mosvold, R. & Fauskanger, J. (2014, September 25). Teachers’ beliefs about mathematical horizon content knowledge. International Journal for Mathematics Teaching and Learning. Retrieved September 26, 2014, from http://www.cimt.plymouth.ac.uk/journal/mosvold2.pdf
+32. Fauskanger, J. & Mosvold, R. (2014). Innholdsanalysens muligheter i utdanningsforskning. Norsk Pedagogisk Tidsskrift, 98(2), 127–139.
+33. Mosvold, R., Jakobsen, A., & Jankvist, U.T. (2014). How mathematical knowledge for teaching may profit from the study of history of mathematics. Science & Education, 23(1), 47–60.
+34. Mosvold, R. & Fauskanger, J. (2013). Teachers’ beliefs about mathematical knowledge for teaching definitions. International Electronic Journal of Mathematics Education, 8(2–3), 43–61.
+35. Sæbbe, P.E. & Mosvold, R. (2013). “Han går oppover mens han går nedover!” Femåringers refleksjoner om vertikal forflytning i forbindelse med klatring. Nordisk barnehageforskning, 6, art. nr. 18, 1–15.
+36. Fauskanger, J., Jakobsen, A., Mosvold, R., & Bjuland, R. (2012). Analysis of psychometric properties as part of an iterative adaptation process of MKT items for use in other countries. ZDM – The International Journal of Mathematics Education, 44(3), 387–399.
+37. Ng, D., Mosvold, R., & Fauskanger, J. (2012). Translating and Adapting the Mathematical Knowledge for Teaching (MKT) Measures: The Cases of Indonesia and Norway. The Mathematics Enthusiast, 9(1&2), 149–178.
+38. Fauskanger, J., Mosvold, R., Bjuland, R., & Jakobsen, A. (2011). Does the format matter? How the multiple-choice format might complicate the MKT items. Nordic Studies in Mathematics Education, 16(4), 45–67.
+39. Mosvold, R. & Bjuland, R. (2011). An activity theory view on learning studies. International Journal of Early Childhood, 43(3), 261–275.
+40. Fauskanger, J. & Mosvold, R. (2010). Undervisningskunnskap i matematikk: Tilpasning av en amerikansk undersøkelse til norsk, og læreres opplevelse av undersøkelsen. Norsk Pedagogisk Tidsskrift, 94(2), 112–123.
+41. Mosvold, R., Fauskanger, J., Jakobsen, A., & Melhus, K. (2009). Translating test items into Norwegian – without getting lost in translation? Nordic Studies in Mathematics Education, 14(4), 101–123.
+42. Mosvold, R. (2008, July 3). Real life connections in Japan and the Netherlands: National teaching patterns and cultural beliefs. International Journal of Mathematics Teaching and Learning. Retrieved October 19, 2009, from http://www.cimt.plymouth.ac.uk/journal/mosvold.pdf
+43. Fauskanger, J. & Mosvold, R. (2008). Kunnskaper og oppfatninger – implikasjoner for etterutdanning. Norsk Pedagogisk Tidsskrift, 92(3), 187–197.
+
+** Book Chapters 
+1. Wæge, K., Fauskanger, J., & Mosvold, R. (revisions). Supporting Norwegian teachers’ collective learning of core practices through cycles of enactment and investigation. In P. Grossman (Ed.), /Core practices from a cross-national perspective/. Harvard Education Press. 
+2. Sæbbe, P.-E., & Mosvold, R. (2020). The complexity of teaching mathematics in kindergarten: A case study and conceptualization. In M. Carlsen, I. Erfjord, & P. S. Hundeland (Eds.), Mathematics Education in the Early Years: Results from the POEM4 Conference, 2018 (pp. 385–400). Springer Nature. 
+3. Mosvold, R. (2018). Fostering relationships in the work of teaching mathematics. In A. Kajander, J. Holm, & E. Chernoff (Eds.), Teaching and Learning Secondary School Mathematics: Canadian Perspectives in an International Context (pp. 293–299). Springer, Advances in Mathematics Education Series.
+4. Skott, J., Mosvold, R., & Sakonidis, C. (2018). Classroom practice and teachers’ knowledge, beliefs, and identity. In T. Dreyfus, M. Artigue, D. Potari, S. Prediger & K. Ruthven (Eds.), Developing research in mathematics education: Twenty years of communication, cooperation and collaboration in Europe (pp. 162–180). Oxon, UK: Routledge – New Perspectives on Research in Mathematics Education series, Vol. 1.
+5. Kajander, A., Holm, J., Mosvold, R., Millsaps, G., & Underwood, D. (2016). Three international examples of mathematics content courses for elementary teachers. In L. C. Hart, S. Oesterle, S. S. Auslander, & A. Kajander (Eds.), The Mathematics Education of Elementary Teachers: Issues and Strategies for Content Courses (pp. 103–122). Information Age Publishing.
+6. Mosvold, R. & Bjuland, R. (2016). Aktivitetsteoretiske perspektiver på Lesson Study og praksisopplæring i grunnskolelærerutdanning. I B.O. Hallås & G.Grimsæth (Eds.), Lesson Study i en nordisk kontekst (s. 178–194). Gyldendal Akademisk.
+7. Jakobsen, A., Fauskanger, J., Mosvold, R., & Bjuland, R. (2014). Undervisningskunnskap i matematikk for lærere på 1.–7. trinn. In K.R.C. Hinna, R.A. Rinvold & T. Gustavsen (Eds.), QED 1–7. Matematikk for grunnskolelærerutdanningen (pp. 631–656). Oslo: Cappelen Damm Akademisk.
+8. Jakobsen, A., Fauskanger, J., Mosvold, R., & Bjuland, R. (2014). Undervisningskunnskap i matematikk for lærere på 5.–10. trinn. In T. Gustavsen, K.R.C. Hinna, P.S. Andersen & I.C. Borge (Eds.), QED Matematikk for grunnskolelærerutdanningen 5–10, Bind 2 (pp. 567–588). Oslo: Cappelen Damm Akademisk.
+9. Mosvold, R. (2012). Førskolelærerens utfordringer knyttet til arbeidet med antall, rom og form i barnehagen. In M. Alvestad & T. Vist (Eds.), Læringskulturer i barnehagen: Flerfaglige forskningsperspektiver (pp. 92–114). Oslo: Cappelen Damm Akademisk. 
+10. Mosvold, R. (2010). Teachers’ use of projects and textbook tasks to connect mathematics with everyday life. In B. Sriraman, C. Bergsten, S. Goodchild, G. Palsdottir, B.D. Søndergaard, & L. Haapasalo (Eds.), The First Sourcebook on Nordic Research in Mathematics Education (pp. 169–180). Information Age Publishing.
+11. Fauskanger, J., Bjuland, R., & Mosvold, R. (2010). “Eg kan jo multiplikasjon, men ka ska eg gjørr?” – det utfordrende undervisningsarbeidet i matematikk. In T. Løkensgard Hoel, G. Engvik, & B. Hanssen (Eds.), Ny som lærer - sjansespill og samspill (pp. 99–114). Trondheim: Tapir Akademisk Forlag. 
+12. Mosvold, R. (2009). Å regne – med utgangspunkt i dagligdagse situasjoner. In J. Fauskanger, R. Mosvold & E. Reikerås (Eds.), Å regne i alle fag (pp. 44–55). Oslo: Universitetsforlaget.
+13. Fauskanger, J. & Mosvold, R. (2009). Å regne – en introduksjon. In J. Fauskanger, R. Mosvold & E. Reikerås (Eds.), Å regne i alle fag (pp. 13–18). Oslo: Universitetsforlaget.
+14. Bekken, O.B. & Mosvold, R. (2006). Reflektioner kring en videostudie. In J. Boesen et al. (Eds.), Lära och undervisa matematik – internationella perspektiv (pp. 215–228). Gothenburg: National Center for Mathematics Education.
+15. Bekken, O.B. & Mosvold, R. (2004). Reflections on a video study. In B. Clarke et al. (Eds.), International Perspectives on Learning and Teaching Mathematics. Gothenburg: National Center for Mathematics Education.
+16. Mosvold, R. (2003). Genesis principles in mathematics education. In O.B. Bekken & R. Mosvold (Eds.), Study the Masters (pp. 85–96). Gothenburg: National Center for Mathematics Education.
+
+** Papers in Conference Proceedings
+1. Mosvold, R. (in press). Research on discussion in mathematics teaching: A review of literature from 2000 to 2020. To appear in /Proceedings from the 14th International Congress on Mathematical Education/.
+2. Adler, J., & Mosvold, R. (in press). Mathematics Discourse in Instruction: How it helps us think about research on mathematics teaching. To appear in Proceedings from CERME12.
+3. Dahlgren, M., Hoover, M., & Mosvold, R. (in press). Mathematics teacher educators' thinking about mutuality in teaching. To appear in Proceedings from CERME12. 
+4. Gobede, F., & Mosvold, R. (in press). Dilemmas of teaching arithmetical notation to young learners. To appear in Proceedings from CERME12.)
+5. Mosvold, R. & Wæge, K. (in press). Entailments of questions and questioning practices in ambitious mathematics teaching. To appear in Proceedings from CERME12.
+6. Mosvold, R., Grundén, H., Hoover, M., Nic Mhuiri, S., & Nowinska, E. (in press). Introduction to the papers from TWG19. To appear in Proceedings from CERME12.
+7. Hovtun, G., Mosvold, R., Bjuland, R., Fauskanger, J., Gjære, Å. L., Jakobsen, A., & Kristensen, M. S. (2021). Exploring opportunities to learn mathematics in practice-based teacher education: A Norwegian case study. In G. A. Nortvedt, N. F. Buchholtz, J. Fauskanger, F. Hreinsdóttir, M. Hähkiöniemi, B. E. Jessen, J. Kurvits, Y. Liljekvist, M. Misfeldt, M. Naalsund, H. K. Nilsen, G. Pálsdóttir, P. Portaankorva-Koivisto, J. Radisic, & A. Wernberg (Eds.), Bringing Nordic mathematics education into the future: Preceedings of Norma 20 (pp. 137–144). Swedish Society for Research in Mathematics Education.
+8. Justnes, C. N., & Mosvold, R. (2021). The work of leading mathematical discussions in kindergarten: A Norwegian case study. In G. A. Nortvedt, N. F. Buchholtz, J. Fauskanger, F. Hreinsdóttir, M. Hähkiöniemi, B. E. Jessen, J. Kurvits, Y. Liljekvist, M. Misfeldt, M. Naalsund, H. K. Nilsen, G. Pálsdóttir, P. Portaankorva-Koivisto, J. Radisic, & A. Wernberg (Eds.), Bringing Nordic mathematics education into the future: Preceedings of Norma 20 (pp. 153–160). Swedish Society for Research in Mathematics Education.
+9. Bass, H., & Mosvold, R. (2019). Teacher responses to public apparent student error: A critical confluence of mathematics and equitable teaching practice. In U. T. Jankvist, M. Van den Heuvel-Panhuizen, & M. Veldhuis (eds.), Proceedings of the Eleventh Congress of the European Society for Research in Mathematics Education (pp. 3596–3603). European Society for Research in Mathematics Education. 
+10. Dahlgren, M., Mosvold, R., & Hoover, M. (2019). Teacher educators’ understanding of mathematical knowledge for teaching. In U. T. Jankvist, M. Van den Heuvel-Panhuizen, & M. Veldhuis (eds.), Proceedings of the Eleventh Congress of the European Society for Research in Mathematics Education (pp. 3887–3894). European Society for Research in Mathematics Education.
+11. Mosvold, R. & Bjuland, R. (2019). The work of positioning students and content in mathematics teaching. In U. T. Jankvist, M. Van den Heuvel-Panhuizen, & M. Veldhuis (eds.), Proceedings of the Eleventh Congress of the European Society for Research in Mathematics Education (pp. 3696–3703). European Society for Research in Mathematics Education.
+12. Sakonidis, C., Mosvold, R., Drageset, O. G., Nic Mhuiri, S., & Taylan, R. D. (2019). Introduction to the papers of TWG19: Mathematics teaching and teacher practice(s). In U. T. Jankvist, M. Van den Heuvel-Panhuizen, & M. Veldhuis (eds.), Proceedings of the Eleventh Congress of the European Society for Research in Mathematics Education (pp. 3548–3556). European Society for Research in Mathematics Education.
+13. Fauskanger, J., Mosvold, R., Valenta, A., & Bjuland, R. (2018). Good mathematics teaching as constructed in Norwegian teachers’ discourses. In E. Norén, H. Palmér, & A. Cooke (eds.), Nordic research in mathematics education – papers of NORMA17 (pp. 239–248). Gothenburg: Swedish Society for Research in Mathematics Education.
+14. Maugesten, M., Mosvold, R., & Fauskanger, J. (2018). Second graders’ reflections about the number 24. In E. Norén, H. Palmér, & A. Cooke (eds.), Nordic research in mathematics education – papers of NORMA17 (pp. 51–58). Gothenburg: Swedish Society for Research in Mathematics Education. 
+15. Mosvold, R. & Fauskanger, J. (2018). Opportunities and challenges of using the MDI framework for research in Norwegian teacher education. In E. Norén, H. Palmér, & A. Cooke (eds.), Nordic research in mathematics education – papers of NORMA17 (pp. 209–218). Gothenburg: Swedish Society for Research in Mathematics Education.
+16. Fauskanger, J. & Mosvold, R. (2017). Core practices and mathematical tasks of teaching in teacher education: What can be learned from a challenging case? In T. Dooley & G. Gueudet (Eds.), Proceedings of the tenth congress of the European Society for Research in Mathematics Education (pp. 2844–2851). Dublin, Ireland: DCU Institute of Education and ERME.
+17. Mamba, F., Mosvold, R., & Bjuland, R. (2017). A preservice secondary teacher’s pedagogical content knowledge for teaching algebra. In T. Dooley & G. Gueudet (Eds.), Proceedings of the tenth congress of the European Society for Research in Mathematics Education (pp. 3336–3343). Dublin, Ireland: DCU Institute of Education and ERME.
+18. Mosvold, R., Bjuland, R., & Fauskanger, J. (2017). Investigating potential improvements of mathematics student teachers’ instruction from Lesson Study. In T. Dooley & G. Gueudet (Eds.), Proceedings of the tenth congress of the European Society for Research in Mathematics Education (pp. 2956–2963). Dublin, Ireland: DCU Institute of Education and ERME.
+19. Mosvold, R. & Hoover, M. (2017). Mathematical knowledge for teaching and the teaching of mathematics. In T. Dooley & G. Gueudet (Eds.), Proceedings of the tenth congress of the European Society for Research in Mathematics Education (pp. 3105–3112). Dublin, Ireland: DCU Institute of Education and ERME.
+20. Sakonidis, C., Drageset, O. G., Mosvold, R., Skott, J., & Taylan, R. D. (2017). Introduction to the papers of TWG19: Mathematics teachers and classroom practices. In T. Dooley & G. Gueudet (Eds.), Proceedings of the tenth congress of the European Society for Research in Mathematics Education (pp. 3033–3040). Dublin, Ireland: DCU Institute of Education and ERME.
+21. Tyskerud, A., Fauskanger, J., Mosvold, R., & Bjuland, R. (2017). Investigating Lesson Study as a practice-based approach to study the development of mathematics teacher’s professional practice. In T. Dooley & G. Gueudet (Eds.), Proceedings of the tenth congress of the European Society for Research in Mathematics Education (pp. 3384–3391). Dublin, Ireland: DCU Institute of Education and ERME. 
+22. Mwadzaangati, L., Mosvold, R., & Bjuland, R. (2017). Investigating the work of teaching geometric proof: The case of a Malawian secondary mathematics teacher. In S. Zehetmeier, B. Rösken-Winter, D. Potari, & M. Ribeiro (Eds.), ETC3 ERME topic conference on mathematics teaching, resources and teacher professional development (pp. 308–317). Berlin, Germany: European Society for Research in Mathematics Education.
+23. Fauskanger, J. & Mosvold, R. (2017). Mathematics discourse in student teachers’ instruction: The case of a Norwegian student teacher. In M.K. Mhlolo, S.N. Matoti, & B. Fredericks (Eds.), Proceedings of The 25th Annual Meeting of the Southern African Association of Research in Mathematics, Science & Technology Education (SAARMSTE): Book of long papers (pp. 41–51). Bloemfontein, South Africa: SAARMSTE.
+24. Mosvold, R. (2016). The work of teaching mathematics from a commognitive perspective. In W. Mwakapenda, T. Sedumedi, & M. Makgato (Eds.), Proceedings of the 24th annual conference of the Southern African Association for Research in Mathematics, Science and Technology Education (SAARMSTE) 2016 (pp. 186–195). Pretoria, South Africa: SAARMSTE.
+25. Potari, D., Figueiras, L., Mosvold, R., Sakonidis, C., & Skott, J. (2015). Introduction to the papers and posters of TWG 19: Mathematics teacher and classroom practices. In K. Krainer & N. Vondrova (Eds.), Proceedings of the Ninth Congress of the European Society for Research in Mathematics Education (pp. 2968–2973). European Society for Research in Mathematics Education.
+26. Fauskanger, J. & Mosvold, R. (2015). Why are Laura and Jane «not sure»? In K. Krainer & N. Vondrova (Eds.), Proceedings of the Ninth Congress of the European Society for Research in Mathematics Education (pp. 3192–3198). European Society for Research in Mathematics Education.
+27. Sæbbe, P.E. & Mosvold, R. (2015). Asking productive mathematical questions in kindergarten. In K. Krainer & N. Vondrova (Eds.), Proceedings of the Ninth Congress of the European Society for Research in Mathematics Education (pp. 1982–1988). European Society for Research in Mathematics Education.
+28. Mosvold, R. (2015). Interdiscursivity and developing mathematical discourse for teaching. In K. Krainer & N. Vondrova (Eds.), Proceedings of the Ninth Congress of the European Society for Research in Mathematics Education (pp. 3079–3085). European Society for Research in Mathematics Education.
+29. Bjuland, R., Mosvold, R., & Fauskanger, J. (2015). What questions do mathematics mentor teachers ask? In K. Krainer & N. Vondrova (Eds.), Proceedings of the Ninth Congress of the European Society for Research in Mathematics Education (pp. 2762–2768). European Society for Research in Mathematics Education.
+30. Bjuland, R., Mosvold, R., & Fauskanger, J. (2015). Pre-service teachers developing lesson plans in field practice. In H. Silfverberg, T. Kärki, & M.S. Hannula (Eds.), Nordic research in mathematics education – Proceedings of NORMA14, Turku, June 3-6, 2014 (pp. 51–60). Studies in Subject Didactics 10. Turku: The Finnish Research. Association for Subject Didactics.
+31. Fauskanger, J. & Mosvold, R. (2015). The difficulties of measuring types of mathematics teachers’ knowledge. In H. Silfverberg, T. Kärki, & M.S. Hannula (Eds.), Nordic research in mathematics education – Proceedings of NORMA14, Turku, June 3-6, 2014 (pp. 71–80). Studies in Subject Didactics 10. Turku: The Finnish Research. Association for Subject Didactics.
+32. Mosvold, R. & Sæbbe, P.-E. (2015). Tasks of teaching mathematics in kindergarten. In H. Silfverberg, T. Kärki, & M.S. Hannula (Eds.), Nordic research in mathematics education – Proceedings of NORMA14, Turku, June 3-6, 2014 (pp. 371–380). Studies in Subject Didactics 10. Turku: The Finnish Research. Association for Subject Didactics.
+33. Mosvold, R. (2015). Potential uses of social media in and for mathematics education research. In H. Silfverberg, T. Kärki, & M.S. Hannula (Eds.), Nordic research in mathematics education – Proceedings of NORMA14, Turku, June 3-6, 2014 (pp. 401–405). Studies in Subject Didactics 10. Turku: The Finnish Research. Association for Subject Didactics.
+34. Mosvold, R., Fauskanger, J., & Jakobsen, A. (2015). Adapted Mathematical Knowledge for Teaching Measures: Reliable, But Still Challenging. In D. Huillet (Ed.), Mathematics, Science and Technology Education for Empowerment and Equity: Final Proceedings (pp. 380–385). Maputo, Mozambique: SAARMSTE.
+35. Jakobsen, A. & Mosvold, R. (2015). Mathematical Knowledge for Teaching in Africa – A Review of Empirical Research. In D. Huillet (Ed.), Mathematics, Science and Technology Education for Empowerment and Equity: Final Proceedings (pp. 115–124). Maputo, Mozambique: SAARMSTE.
+36. Mosvold, R., Fauskanger, J., & Bjuland, R. (2014). Fra “de” til “vi”? – fokus i lærerstudenters refleksjoner før og etter en praksisperiode i matematikk. In A.B. Reinertsen, B. Groven, A. Knutas, & A. Holm (Eds.), FoU i praksis 2013 conference proceedings (pp. 192–200). Trondheim: Akademika forlag 
+37. Mosvold, R., Fauskanger, J., Bjuland, R., & Jakobsen, A. (2013). Using content analysis to investigate student teachers’ beliefs about pupils. In B. Ubuz, C. Haser, & M.A. Mariotti (Eds.), Proceedings of the Eighth Congress of the European Society for Research in Mathematics Education (pp. 1389–1398). Ankara, Turkey: European Society for Research in Mathematics Education. 
+38. Fauskanger, J. & Mosvold, R. (2013). Analyzing focused discussions based on MKT items to learn about teachers’ beliefs. In B. Ubuz, C. Haser, & M.A. Mariotti (Eds.), Proceedings of the Eighth Congress of the European Society for Research in Mathematics Education (pp. 1339–1348). Ankara, Turkey: European Society for Research in Mathematics Education. 
+39. Hart, L., Swars, S., Oesterle, S., Kajander, A., Browning, C., Thanheiser, E., Feldman, Z., Harrison, J. L., Harrison, R., Hillen, A., Hwang, S., Ko, W., Liljedahl, P., Millsaps, G., Mosvold, R., Olanoff, D., Olsen, M., Slovin, H., Stordy, M., Tobias, J., Welder, R., Underwood-Gregg, D., & Yoder, M. (2013). Developing elementary teachers’ mathematical knowledge for teaching: Identifying important issues. In M. Martinez & A. Castro Superfine (Eds.), Proceedings of the 35th annual meeting of the North American Chapter of the International Group for the Psychology of Mathematics Education (pp. 1202–1301). Chicago, IL: University of Illinois at Chicago.
+40. Fauskanger, J. & Mosvold, R. (2013). Teachers’ mathematical knowledge for teaching equality. In A.M. Lindmeier & A. Heinze (Eds.), Proceedings of the 37th Conference of the International Group for the Psychology of Mathematics Education, Vol. 2 (pp. 289–296). Kiel, Germany: PME.
+41. Fauskanger, J. & Mosvold, R. (2013). “Det ligger jo i bunn for alt” – om læreres oppfatning av undervisningskunnskap knyttet til posisjonssystemet. In I. Pareliussen, B. B. Moen, A. Reinertsen, & T. Solhaug (Eds.), FoU i praksis 2012 conference proceedings (pp. 86–93). Trondheim: Akademika forlag.
+42. Fauskanger, J. & Mosvold, R. (2012). “Wrong, but still right” – Teachers reflecting on MKT items. In L.R. Van Zoest, J.J. Lo, & J.L. Kratky (Eds.), Proceedings of the 34th annual meeting of the North American chapter of the International Group for the Psychology of Mathematics Education: Navigating transitions along continuums (pp. 423–429). Kalamazoo, MI: Western Michigan University.
+43. Jakobsen, A., Fauskanger, J., Mosvold, R., & Bjuland, R. (2012). Correlations between teachers’ MKT in different content areas. In G. H. Gunnarsdóttir, F. Hreinsdóttir, G. Pálsdóttir, M. Hannula, M. Hannula-Sormunen, E. Jablonka, U. T. Jankvist, A. Ryve, P. Valero & K. Wæge (Eds.), Proceedings of NORMA 11, The sixth Nordic Conference on Mathematics Education (pp. 359–368). Reykjavik: University of Iceland Press. 
+44. Jakobsen, A., Mosvold, R., Bjuland, R., & Fauskanger, J. (2011). What can be learned from comparing performance of mathematical knowledge for teaching items found in Norway and in the U.S.? In: 11th International Conference of The Mathematics Education into the 21st Century Project Turning Dreams into Reality: Transformations and Paradigm Shifts in Mathematics Education. Oxford University Press.
+45. Mosvold, R., Bjuland, R., Fauskanger, J., & Jakobsen, A. (2011). Similar but different – investigating the use of MKT in a Norwegian kindergarten setting. In M. Pytlak, T. Rowland, & E. Swoboda (Eds.), Proceedings of the Seventh Congress of the European Society for Research in Mathematics Education (pp. 1802–1811). University of Rzeszów, Poland. 
+46. Jakobsen, A., Fauskanger, J., Mosvold, R., & Bjuland, R. (2011). Comparison of item performance in a Norwegian study using U.S. developed mathematical knowledge for teaching measures. In M. Pytlak, T. Rowland, & E. Swoboda (Eds.), Proceedings of the Seventh Congress of the European Society for Research in Mathematics Education (pp. 1575–1584). University of Rzeszów, Poland. 
+47. Fauskanger, J., & Mosvold, R. (2009). Teachers’ beliefs and knowledge about the place value system. In C. Winsløw (Ed.), NORDIC RESEARCH IN MATHEMATICS EDUCATION Proceedings from NORMA08 in Copenhagen, April 21–April 25, 2008 (pp. 159–166). Rotterdam, The Netherlands: Sense Publishers.
+48. Mosvold, R. (2007). Teaching “Mathematics in everyday life”. In C. Bergsten et al. (Eds.), Relating Practice and Research in Mathematics Education. Proceedings of Norma 05, Fourth Nordic Conference on Mathematics Education (pp. 389–399). Trondheim: Tapir Academic Press.
+
+** Other Publications
+1. Fauskanger, J., & Mosvold, R. (2016). Fra kunnskap til praksis: endring i fokus i matematikkfaget i lærerutdanningen. Skolehistorisk årbok for Rogaland, 33, 56–64.
+2. Mosvold, R., & Hoover, M. (2016). Guest editorial: Mathematical knowledge for teaching: Developing measures and measuring development. The Mathematics Enthusiast, 13(1–2), 1–2.
+3. Fauskanger, J., & Mosvold, R. (2014). Editorial in the special issue on MKT. Nordic Studies in Mathematics Education, 19(3–4), 1–6.
+4. Mosvold, R., & Fauskanger, J. (2012). Testing av matematikklærere – Nei takk, men ja til faglige diskusjoner. Bedre Skole, nr. 2, 52–55.
+5. Mosvold, R., & Alvestad, M. (2011). Editorial: Learning cultures in early childhood educational contexts. International Journal of Early Childhood, 43(3), 189–198.
+6. Fauskanger, J., Mosvold, R., & Bjuland, R. (2010). Hva må læreren kunne? Tangenten, 21(4), 35–38.
+7. Fauskanger, J., & Mosvold, R. (2009). Etter- og videreutdanning av matematikklærere: Et spørsmål om antall studiepoeng, eller om INNHOLD? Utdanning, nr. 6, 48–51.
+8. Mosvold, R. (2008). Refleksjoner omkring hverdagsmatematikk. Tangenten, 20(2), 47–51.
+9. Mosvold, R. (2006). Mathematics in everyday life – a study of beliefs and actions. Bergen: University of Bergen. Doctoral thesis.
+10. Mosvold, R. (2006). Matematikk i dagliglivet – fra tanke til handling. Bedre skole, nr. 4, 13–16.
+11. Mosvold, R. (2006). Takvinkler til besvær. Nämnaren, nr. 4, 40–43.
+12. Brekke, G., Mosvold, R., & Streitlien, Å. (2005). Matematikk på nett. En evaluering av det nasjonale nettstedet “matematikk.org”. Notodden: TFN Rapport 01/05.
+13. Mosvold, R. (2005). Hverdagsmatematikk i en sammensatt undervisningshverdag. Utdanning, nr. 5, 54–55.
+14. Mosvold, R. (2005). Takvinkler til besvær. Tangenten 17(1), 33–36.
+15. Mosvold, R. (Ed.) (2004). From the TIMSS 1999 Video Study of mathematics in seven countries. Notodden: TFN Rapport 04/04.
+16. Mosvold, R. (2003). Mathematics in everyday life. Notodden: TFN Rapport 07/03.
+17. Bekken, O.B., & Mosvold, R. (2003). The TIMSS 1999 Video Study - Helping teachers to become reflective practitioners. Notodden: TFN Notat 01/03.
+18. Mosvold, R. (2002). Matematikk i hverdagen – vinkelbegrepet. Notodden: TFN Rapport 11/02.
+19. Mosvold, R. (2002). Læreplanutvikling i historisk perspektiv – med fokus på “hverdagsmatematikk i dagliglivet”. Notodden: TFN Rapport 08/02.
+20. Mosvold, R. (2002). “Genetisk” – begrepsforvirring eller begrepsavklaring. Notodden: TFN Rapport 10/02.
+21. Mosvold, R. (2002). Genesis principles in mathematics education. Notodden: TFN Rapport 09/02.
+22. Mosvold, R. (2001). Det genetiske prinsipp i matematikkdidaktikk. Kristiansand: Agder University College. Master thesis.
+
+* PRESENTATIONS
+** Conferences
+1. Adler, J., & Mosvold, R. (2022, February). Mathematics discourse in instruction: How it helps us think about research on mathematics teaching. Paper presented at the 12th Congress of European Research in Mathematics Education (CERME12). Bolzano, Italy (online).
+2. Gobede, F., & Mosvold, R. (2022, February). Dilemmas of teaching arithmetical notation to young learners. Paper presented at the 12th Congress of European Research in Mathematics Education (CERME12). Bolzano, Italy (online).
+3. Mosvold, R., & Wæge, K. (2022, February). Entailments of questions and questioning practices in ambitious mathematics teaching. Paper presented at the 12th Congress of European Research in Mathematics Education (CERME12). Bolzano, Italy (online).
+4. Mosvold, R., Fauskanger, J., Bjuland, R., Helgevold, N., Jakobsen, A., & Kazima, M. (2020, January). Malawian primary mathematics teachers’ views on teaching and learning. Paper presented at the 28th Annual Meeting of the Southern African Association of Research in Mathematics, Science & Technology Education (SAARMSTE). Port Elizabeth, South Africa.
+5. Mosvold, R. (2019, September). Det krevende arbeidet med å lede helklassediskusjoner i matematikk. Etterutdanningskonferansen for lærerutdannere i matematikk. Stavanger, Norway. 
+6. Brasel, J., Dahlgren, M., Garcia, N., Mosvold, R., Yankson, P. K., & Ball, D. L. (2019, April). But What Is It? Specialized Content Knowledge and Knowing Mathematics for Teaching in Secondary Settings. Annual Meeting of AERA. Toronto, Canada. 
+7. Bass, H., & Mosvold, R. (2019, February). Teacher responses to public apparent student error: A confluence of mathematics and equitable teaching. CERME11. Utrecht, The Netherlands. 
+8. Dahlgren, M., Mosvold, R., & Hoover, M. (2019, February). Teacher educators’ understanding of mathematical knowledge for teaching. CERME11. Utrecht, The Netherlands. 
+9. Hoover, M., & Mosvold, R. (2019, February). Teaching as work: What is the object of study? CERME11. Utrecht, The Netherlands.
+10. Mosvold, R., & Bjuland, R. (2019, February). Balancing positioning of students and attention to content. CERME11. Utrecht, The Netherlands. 
+11. Mosvold, R., Hoover, M., & Suzuka, K. (2019, February). Gathering, sharing and re-using records of mathematics teaching: Why, what, and how. CERME11. Utrecht, The Netherlands. 
+12. Sæbbe, P.-E., & Mosvold, R. (2018, May). Teaching mathematics in kindergarten and school — similar or different? POEM 2018. Kristiansand, Norway. 
+13. Bulien, T., Fauskanger, J., & Mosvold, R. (2017, November). Challenges of constructing core concepts of Lesson Study in the discourse of teacher education. The World Association of Lesson Studies International Conference 2017. Nagoya, Japan.
+14. Fauskanger, J., Mosvold, R., Valenta, A., & Bjuland, R. (2017, June). Good mathematics teaching as constructed in Norwegian teachers’ discourses. The Eighth Nordic Conference on Mathematics Education (NORMA). Stockholm, Sweden. 
+15. Maugesten, M., Mosvold, R., & Fauskanger, J. (2017, June). Second graders’ reflections about the number 24. The Eighth Nordic Conference on Mathematics Education (NORMA). Stockholm, Sweden.
+16. Mosvold, R., & Fauskanger, J. (2017, May). Applying the MDI framework in a Norwegian context. The Eighth Nordic Conference on Mathematics Education (NORMA). Stockholm, Sweden. 
+17. Fauskanger, J. & Mosvold, R. (2017, February). Mathematical tasks of teaching in teacher education: What can be learned from a challenging case? Paper presented at the 10th Congress of European Research in Mathematics Education. Dublin, Ireland.
+18. Mamba, F., Mosvold, R., & Bjuland, R. (2017, February). A preservice secondary teacher’s pedagogical content knowledge for teaching algebra. Paper presented at the 10th Congress of European Research in Mathematics Education. Dublin, Ireland.
+19. Mosvold, R., Bjuland, R., & Fauskanger, J. (2017, February). Investigating potential improvements of mathematics student teachers’ instruction from Lesson Study. Paper presented at the 10th Congress of European Research in Mathematics Education. Dublin, Ireland.
+20. Mosvold, R. & Hoover, M. (2017, February). Mathematical knowledge for teaching and the teaching of mathematics. Paper presented at the 10th Congress of European Research in Mathematics Education. Dublin, Ireland.
+21. Tyskerud, A., Fauskanger, J., Mosvold, R. & Bjuland, R. (2017, February). Investigating Lesson Study as a practice-based approach to study the development of mathematics teachers’ professional practice. Paper presented at the 10th Congress of European Research in Mathematics Education. Dublin, Ireland.
+22. Fauskanger, J. & Mosvold, R. (2017, January). Mathematics discourse in student teachers’ instruction: The case of a Norwegian student teacher. Paper presented at the 25th Annual Meeting of the Southern African Association of Research in Mathematics, Science & Technology Education (SAARMSTE). Bloemfontein, South Africa: SAARMSTE.
+23. Mwadzaangati, L., Mosvold, R., & Bjuland, R. (2016). Investigating the work of teaching geometric proof: The case of a Malawian secondary mathematics teacher. Paper presented at the ERME Topic Conference ETC3 on mathematics teaching, resources and teacher professional development. Berlin, Germany.
+24. Larssen, D. L. S., Cajkler, W., Wood, P., Helgevold, N., Elliott, J., Fauskanger, J., Bugge, H. E., Mosvold, R., Bjuland, R., & Næsheim-Bjørkvik, G. (2016, September). Lesson study and initial teacher education(ITE): understanding learning and meaningful observation to guide beginning teachers. Paper presented at the World Association of Lesson Study (WALS) Conference 2016. Exeter, UK. 
+25. Fauskanger, J. & Mosvold, R. (2016, July). Mathematical tasks of teaching and the professional and cultural aspects of teaching. Paper presented at the 13th International Congress on Mathematics Education (ICME). Hamburg, Germany. 
+26. Larssen, D. L. S., Helgevold, N., Næsheim-Bjørkvik, G., Bjuland, R., Mosvold, R., Fauskanger, J., Østrem, S., & Drew, I. P. F. (2016, June). TasS Project (teachers as students): Lesson study in Initial Teacher Education in Norway, a time-lagged experiment from field practice. Paper presented at the Bringing Teacher Education Forward Conference. Oslo, Norway.
+27. Mosvold, R. (2016, January). The work of teaching mathematics from a commognitive perspective. Paper presented at the 24th Annual Conference of the Southern African Association for Research in Mathematics, Science and Technology Education (SAARMSTE). Pretoria, South Africa. 
+28. Fauskanger, J. & Mosvold, R. (2015, February). Why are Laura and Jane «not sure»? Paper presented at the 9th Congress of European Research in Mathematics Education (CERME 9). Prague, Czech Republic.
+29. Sæbbe, P.E. & Mosvold, R. (2015, February). Asking productive mathematical questions in kindergarten. Paper presented at the 9th Congress of European Research in Mathematics Education (CERME 9). Prague, Czech Republic.
+30. Mosvold, R. (2015, February). Developing mathematical discourse for teaching in teacher education: A case of the equal sign. Paper presented at the 9th Congress of European Research in Mathematics Education (CERME 9). Prague, Czech Republic.
+31. Bjuland, R., Mosvold, R., & Fauskanger, J. (2015, February). What questions do mentor teachers ask? Paper presented at the 9th Congress of European Research in Mathematics Education (CERME 9). Prague, Czech Republic.
+32. Jakobsen, A. & Mosvold, R. (2015, January). Mathematical Knowledge for Teaching in Africa – A Review of Empirical Research. Paper presented at the 2015 SAARMSTE conference. Maputo, Mozambique.
+33. Mosvold, R., Fauskanger, J., & Jakobsen, A. (2015, January). Adapted Mathematical Knowledge for Teaching Measures: Reliable, But Still Challenging. Paper presented at the 2015 SAARMSTE conference. Maputo, Mozambique.
+34. Mosvold R. (2014, June). Potential uses of social media in and for mathematics education research. Working group chaired at The Seventh Nordic Conference on Mathematics Education, NORMA 14. Turku, Finland.
+35. Mosvold, R. & Sæbbe, P.E. (2014, June). Tasks of teaching as a foundation for investigating kindergarten teachers’ mathematical competence. Paper presented at The Seventh Nordic Conference on Mathematics Education, NORMA 14. Turku, Finland.
+36. Fauskanger, J. & Mosvold, R. (2014, June). The difficulties of measuring types of mathematics teachers’ knowledge. Paper presented at The Seventh Nordic Conference on Mathematics Education, NORMA 14. Turku, Finland.
+37. Bjuland, R., Mosvold, R., & Fauskanger, J. (2014, June). Dialogues of student teachers developing lesson plans of mathematics in field practice. Paper presented at The Seventh Nordic Conference on Mathematics Education, NORMA 14. Turku, Finland.
+38. Mosvold, R. & Fauskanger, J. (2013, September). Hva fokuserer de egentlig på? Lærerstudenters diskusjoner før og etter en praksisperiode i matematikk. “Framtidas matematikklærer” – Etterutdanningskonferanse for lærerutdannere i matematikk. Høgskolen i Østfold, Halden, Norway.
+39. Fauskanger, J. & Mosvold, R. (2013, July). Teachers’ mathematical knowledge for teaching equality. Paper presented at the 37th Conference of the International Group for the Psychology of Mathematics Education (PME-37). Kiel, Germany. 
+40. Mosvold, R., Fauskanger, J., & Bjuland, R. (2013, April). Fra «de» til «vi»? – fokus i lærerstudenters refleksjoner før og etter en praksisperiode i matematikk. Paper presented at FoU i Praksis 2013. Stjørdal, Norway. 
+41. Størksen, I. & Mosvold, R. (2013, March). Assessing early math skills with tablet computers: Development of the Ani Banani Math Test (ABMT) for young children. Paper presented at Program seminar arranged by UTDANNING2020. Oslo, Norway.
+42. Mosvold, R., Fauskanger, J., Bjuland, R., & Jakobsen, A. (2013, February). Who are “they”? Student teachers’ beliefs. Paper presented at the Eighth Congress of European Research in Mathematics Education (CERME-8). Antalya, Turkey.
+43. Fauskanger, J. & Mosvold, R. (2013, February). Studying teachers’ epistemic beliefs by using focused discussions based on MKT items. Paper presented at the Eighth Congress of European Research in Mathematics Education (CERME-8). Antalya, Turkey.
+44. Fauskanger, J. & Mosvold, R. (2012, November). “Wrong, but still right” – Teachers reflecting on MKT items. Paper presented at the 34th annual meeting of the North American chapter of the International Group for the Psychology of Mathematics Education. Kalamazoo, MI.
+45. Jankvist, U.T., Mosvold, R., Fauskanger, J., & Jakobsen, A. (2012, July). Mathematical knowledge for teaching in relation to history in mathematics education. Paper presented at the 12th International Congress on Mathematical Education (ICME-12). Seoul, South-Korea. 
+46. Mosvold, R. & Fauskanger, J. (2012, April). Teachers’ knowledge of mathematical definitions: What they need to know and what they think they need to know. Paper presented at the 2012 Annual Meeting of the American Educational Research Association. Vancouver, Canada.
+47. Jakobsen, A., Mosvold, R., Bjuland, R., & Fauskanger, J. (2011). What can be learned from comparing performance of mathematical knowledge for teaching items found in Norway and in the U.S.? Paper presented at The 11th International Conference of the Mathematics Education into the 21st Century Project. Grahamstown, South Africa.
+48. Jakobsen, A., Mosvold, R., Bjuland, R., & Fauskanger, J. (2011). Some results found using U.S. developed measures for teachers’ mathematical knowledge for teaching in Norway. Paper presented at The 5th Annual International Conference on Mathematics & Statistics. Athens, Greece.
+49. Mosvold, R., Bjuland, R., Fauskanger, J., & Jakobsen, A. (2011, February). Similar but different – investigating the use of MKT in a Norwegian kindergarten setting. Paper presented at the Seventh Congress of the European Society for Research in Mathematics Education (CERME-7). Rzeszów, Poland. 
+50. Jakobsen, A., Fauskanger, J., Mosvold, R., & Bjuland, R. (2011, February). Comparison of item performance in a Norwegian study using U.S. developed mathematical knowledge for teaching measures. Paper presented at the Seventh Congress of the European Society for Research in Mathematics Education (CERME-7). Rzeszów, Poland. 
+51. Mosvold, R. & Fauskanger, J. (2009, April). Challenges of translating and adapting the MKT measures for Norway. Paper presented at the AERA 2009 Annual Meeting. San Diego, CA. 
+52. Fauskanger, J., & Mosvold, R. (2009, April). Teachers’ beliefs and knowledge about the place value system. Paper presented at the Third Nordic Conference on Mathematics Education (NORMA). Copenhagen, Denmark.
+53. Fauskanger, J. & Mosvold, R. (2008, September). Pre-school teachers’ mathematical knowledge? Paper presented at the 18th EECERA Annual Conference. Stavanger, Norway.
+54. Mosvold, R. (2004, July). Mathematics in everyday life. Paper presented at the 10th International Congress on Mathematical Education (ICME-10). Copenhagen, Denmark. 
+55. Mosvold, R. (2007, April). Teaching “Mathematics in everyday life”. Paper presented at the Fourth Nordic Conference on Mathematics Education (NORMA). Trondheim, Norway.
+56. Mosvold, R. (2003, May). Mathematics in everyday life. Paper presented at the Nordic pre-conference to ICME-10. Växjö, Sweden. 
+57. Mosvold, R. (2002, June). Genesis principles in mathematics education. Paper presented at Study the masters: The Abel-Fauvel conference. Kristiansand, Norway. 
+
+** Invited Addresses and Presentations
+1. Mosvold, R. (2021, November). Det krevende arbeidet med å lede matematiske diskusjoner. Plenary lecture, Novemberkonferansen. Trondheim, Norway.
+2. Mosvold, R. (2021, July). Research on discussion in mathematics teaching: Trends, emphases, and potential shifts. Invited lecture. The 14th International Congress on Mathematical Education. Shanghai, China.
+3. Mosvold, R. (2016, September). Hva skal til for at lærere utvikler sin kompetanse i møte mellom barnehage og skole? Fag- og erfaringssamling for realfagskommuner. The Norwegian Directorate for Education and Training (Udir). Gardermoen, Norway.
+4. Mosvold, R. (2016, September). Quo vadis, UKM? Invited guest lecture. University of Bergen, Bergen, Norway. 
+5. Fauskanger, J. & Mosvold, R. (2016, April). Hvilke matematiske undervisningsoppgaver inngår i matematikkundervisning av høy kvalitet? Seminar. The Norwegian Directorate for Education and Training (Udir). Oslo, Norway.
+6. Fauskanger, J. & Mosvold, R. (2015, May). Undervisningskunnskap i matematikk (UKM) – rent praktisk. Faglig seminar for Matematikksenteret. Ålesund, Norway.
+7. Mosvold, R. & Fauskanger, J. (2015, May). Undervisningskunnskap i matematikk (UKM) – teori og forskning. Faglig seminar for Matematikksenteret. Ålesund, Norway. 
+8. Mosvold, R. (2013, November). Teorier og rammeverk for lærerkunnskap – eksempler fra matematikkdidaktikk. Høgskolen i Volda, Volda, Norway. 
+9. Fauskanger, J. & Mosvold, R. (2013, September). Hvilken kunnskap må en fremtidig matematikklærer ha? Plenumsforedrag (plenary). “Framtidas matematikklærer” – Etterutdanningskonferanse for lærerutdannere i matematikk. Høgskolen i Østfold, Halden, Norway.
+10. Mosvold, R. (2013, April). Praksisnær utdanning – forskningsbasert undervisning. Forum for barnehagevitenskap. University of Stavanger, Stavanger, Norway
+11. Mosvold, R. (2012, October). How can 140 characters be of any use in mathematics education? Wheeler Island, SecondLife/David Wheeler Institute for Research in Mathematics Education, Simon Fraser University, Vancouver, Canada. 
+12. Mosvold, R. (2012, September). MIN oppsummering. Etterutdanningskonferansen for lærerutdannere i matematikk. Sommarøya, Troms, Norway. 
+13. Mosvold, R. (2011, December). Temanummer i International Journal of Early Childhood. Forum for barnehagevitenskap. University of Stavanger, Stavanger, Norway. 
+14. Mosvold, R. (2011, October). MKT: From U.S. schools to Norwegian kindergartens. Utah State University, UT. 
+15. Mosvold, R. (2011, September). Førskolelæreres profesjonskunnskap i matematikk. Etterutdanningskonferansen for lærerutdannere i matematikk. Geiranger, Stranda, Norway. 
+16. Mosvold, R., Fauskanger, J., Bjuland, R., & Jakobsen, A. (2011, June). MKT Stavanger: Looking into the horizon. Sola Strand Hotel, Sola, Norway. 
+17. Mosvold, R. & Bjuland, R. (2011, May). An activity theory view on learning studies in kindergarten. Forum for barnehagevitenskap. University of Stavanger, Stavanger, Norway. 
+18. Mosvold, R. (2011, April). Matematikk og små barn. Rådhusmarka barnehage, Sandnes, Norway. 
+19. Mosvold, R. (2010, September). UKM – et kritisk aspekt ved læreres kompetanse. Etterutdanningskonferansen for lærerutdannere i matematikk. Sanner, Hadeland, Norway. 
+20. Mosvold, R. & Fauskanger, J. (2009, November). Å regne i alle fag. Forum for barnehagevitenskap. University of Stavanger, Stavanger, Norway. 
+21. Mosvold, R. (2009, February). Læreres undervisningskunnskap i matematikk. Viste Strand Hotel, Randaberg, Norway. 
+22. Mosvold, R. (2007, September). Matematikk på mellomtrinnet. Grødem skole, Randaberg, Norway. 
+23. Mosvold, R. (2007, June). Snipp, snapp, snute – Er gutta ute? Erfaringskonferanse – Menn i barnehagen. Sola Strand Hotel, Sola, Norway.
+24. Mosvold, R. (2007, April). Matematikk i dagliglivet. Avslutningskonferanse – MatteKick. Quality Airport Hotell, Sola, Norway. 
+25. Mosvold, R. (2007, March). Matematikk i barnehagen – Barn er matematiske! Dronningåsen barnehage, Stavanger, Norway. 
+26. Mosvold, R. (2007, January). Matematikk i barnehagen. Kornberget barnehage, Sola, Norway. 
+27. Mosvold, R. (2006, November). Matematikk i dagliglivet. Forum for barnehagevitenskap. University of Stavanger, Stavanger, Norway. 
+28. Mosvold, R. (2006, April). Hva er nytt i Kunnskapsløftet? Stangeland skole, Sandnes, Norway. 
+29. Mosvold, R. (2005, December). Hverdagsmatematikk. Eilert Sundt Videregående Skole, Farsund, Norway. 
+30. Mosvold, R. (2005, December). Hva er nytt i Kunnskapsløftet? Tau skole, Strand, Norway. 
+31. Mosvold, R. (2004, December). Hverdagsmatematikk – Hva, hvorfor, hvordan og for hvem? Minerva. Oslo Plaza Hotel, Oslo, Norway.
+
+* FUNDING AND AWARDS
+1. Fulbright fellowship (2017). NOK 100,000
+2. Personal mobility grant (2017). The Research Council of Norway. NOK 272,000
+3. Sabbatical. (2017–2018). Granted sabbatical. University of Stavanger. (Invited as visiting Fulbright scholar to the University of Michigan, School of Education)
+4. Co-principal Investigator (2016). Developing digital curriculum materials for Lesson Study. University of Stavanger. NOK 88,432
+5. Qualification stipend for outstanding young researchers (2015). University of Stavanger. NOK 250,000
+6. Co-Investigator. (2013–2017). Improving quality and capacity of mathematics teacher education in Malawi. (P.I.: Arne Jakobsen). NORHED. NOK 16,500,000
+7. Faculty participant. (2012–2014). Teachers as Students. (P.I.: Raymond Bjuland). Norwegian Research Council, PRAKUT program. NOK 9,000,000
+8. Sabbatical. (2011–2012). Granted sabbatical. University of Stavanger. 
+9. Principal Investigator. (2011–2012). Teachers’ mathematical knowledge for teaching [Læreres undervisningskunnskap i matematikk]. Norwegian Oil Industry Association. NOK 300,000
+10. Principal Investigator. (2008–2011). Teachers’ mathematical knowledge for teaching [Læreres undervisningskunnskap i matematikk]. Norwegian Oil Industry Association. NOK 900,000 
+11. Principal Investigator. (2006–2007). “Snipp, snapp snute – er gutta ute?” Fylkesmannen i Rogaland/Universitetet i Stavanger. NOK 55,000
+
+* SERVICE
+** Service in National Boards etc.
+- 2011–2012: Appointed by the Norwegian Ministry of Education and Research as a member of the “Rammeplanutvalget” for the development of a new national framework plan for kindergarten teacher education.
+
+** Academic Community Service
+Various editorial roles:
+- Editorial board member (2022–present). African Journal of Teacher Education and Development. 
+- Guest editor (2021). Nordic Studies in Mathematics Education.
+- Editorial board member (2010–present). The Mathematics Enthusiast (previously The Montana Mathematics Enthusiast)
+- Leader (2015–2016). Forum for educational research. University of Stavanger. 
+- Guest editor (2016). The Mathematics Enthusiast. 
+- Guest editor (2014). Nordic Studies in Mathematics Education.
+- Guest editor (2011). International Journal of Early Childhood.
+- Working group co-leader (2015). Co-leader of TWG19 at CERME 9.
+- Working group co-leader (2017). Co-leader of TWG19 at CERME 10.
+- Working group leader (2019). Leader of TWG19b at CERME 11.
+
+Frequent manuscript reviewer for the following scientific journals:
+- Nordic Studies in Mathematics Education (2010–present)
+- Norsk Pedagogisk Tidsskrift (2011–present)
+- ZDM – The International Journal of Mathematics Education (2011–present)
+- Journal of Curriculum Studies (2011–present)
+- International Journal for Mathematics Teaching and Learning (2014–present) 
+- International Journal of Science and Mathematics Education (2016–present)
+- Journal of Mathematics Teacher Education (2017–present)
+- Journal for Research in Mathematics Education (2019–present)
+
+Infrequent manuscript reviewer for the following scientific journals:
+- Quadrante
+- Spesialpedagogikk
+- Acta Didactica Norge
+- Nordisk barnehageforskning
+- EURASIA Journal of Mathematics, Science and Technology Education
+- Education Sciences
+- Cognition and Instruction
+
+Manuscript reviewer for conference proceedings:
+- CERME (2011, 2013, 2015, 2017, 2019, 2022)
+- PME-NA (2012)
+- FoU i praksis (2012, 2013)
+- NORMA (2014, 2017, 2021)
+- SAARMSTE (2016, 2017)
+- MADIF (2017, 2021)
+
+Manuscript reviewer for publishers:
+- Springer (2017)
+- Information Age Publishing (2012)
+- Universitetsforlaget (2012)
+
+** University Committee Service
+- Committee member (2016). Search committee for associate professor in mathematics education at the University of Stavanger. 
+- Committee member (2016). Search committee for PhD stipend in mathematics education at Oslo and Akershus University College of Applied Sciences (HiOA). 
+- External examiner (2015). C. Naroth: «The implementation of the Singapore mathematics curriculum in a school in Kwazulu Natal: An action research study». (PhD)
+- External examiner/opponent (2015). Hege Kaarstein: «Modelling, operationalising and measuring mathematics pedagogical content knowledge: threats to construct validity». (PhD)
+- Commentator (2015). Tone Salomonsen: «Små barns matematikk». (50% seminar, PhD)
+- External examiner/opponent (2015). Kerstin Bäckman: «Matematiskt gestaltande i förskolan». (PhD)
+- Chair (2014). Search committee for assistant/associate professor in mathematics (education) at the University of Stavanger. 
+- Committee member (2010). Search committee for assistant professor in pedagogy at Gothenburg University.
+- Committee member (2009). Search committee for assistant professor in mathematics education at Malmö University College.
+- Chair (2007-2008). Search committee for PhD stipends in special needs education at the University of Stavanger.
+- Committee member (2007). Search committee for associate professor in mathematics at Oslo University College.
+
+** Membership in Professional Organizations
+- AERA, American Educational Research Association (member since 2009)
+- ERME, European Society for Research in Mathematics Education (member since 2011)
+- LAMIS, The Norwegian society for school mathematics
+- SAARMSTE, Southern African Association for Mathematics, Science, and Technology Education (member since 2016)
+
+* TEACHING RECORD
+** University of Stavanger, 2006–2007
+- BFØ220: Mathematics for prospective kindergarten teachers (Bachelor level)
+University of Stavanger, 2007–2008
+- BFØ220: Mathematics for prospective kindergarten teachers (Bachelor level)
+
+** University of Stavanger, 2008–2009
+- BFØ220: Mathematics for prospective kindergarten teachers (Bachelor level)
+- BFD220: Mathematics for prospective kindergarten teachers (part-time) (Bachelor level)
+- MGM100: Learning and teaching mathematics 1 (Master level)
+- MGM120: History of mathematics (Master level)
+- MBV150: Mathematics and science education (Master level)
+- MGM110: Learning and teaching mathematics 2 (Master level)
+
+** University of Stavanger, 2009–2010
+- BFØ220: Mathematics for prospective kindergarten teachers (Bachelor level)
+- DSP205: Learning cultures in a kindergarten context (PhD level)
+
+** University of Stavanger, 2010–2011
+- BFØ220: Mathematics for prospective kindergarten teachers (Bachelor level)
+- BFD220: Mathematics for prospective kindergarten teachers (part-time) (Bachelor level)
+- DSP205: Learning cultures in a kindergarten context (PhD level)
+- DSP180/185: Use of video in educational research (PhD level)
+- MGM120: History of mathematics (Master level)
+- MGM110: Learning and teaching mathematics 2 (Master level)
+
+** University of Stavanger, 2012–2013
+- MBV160: Philosophy of science and research methods (Master level)
+- MMD120: History of mathematics (Master level)
+- MMD110: Teaching quality in mathematics (Master level)
+
+** University of Stavanger, 2013–2014
+- GLU2113: Mathematics 1 (Bachelor level)
+- MUT300: Mathematical knowledge for teaching (Master level)
+- MUT303: Teaching quality in mathematics (Master level)
+- MUT302: History of mathematics for teachers (Master level)
+
+** University of Stavanger, 2014–2015
+- MUT100: Research methods (Master level)
+- MUT300: Mathematical knowledge for teaching (Master level)
+- MUT303: Teaching quality in mathematics (Master level)
+
+** University of Malawi, 2014–2015
+- SCE610: History and pedagogy of mathematics (Master level)
+- Theories in the Learning and Teaching of Mathematics (PhD level)
+
+** University of Stavanger, 2015–2016
+- MUT100: Research methods (Master level)
+- MUT300: Mathematical knowledge for teaching (Master level)
+- MUT303: Teaching quality in mathematics (Master level)
+
+** University of Stavanger, 2016–2017
+- MUT100: Research methods (Master level)
+- MUT300: Mathematical knowledge for teaching (Master level)
+- MUT303: Teaching quality in mathematics (Master level)
+
+** University of Stavanger, 2018–2019
+- MUT100: Research methods (Master level)
+- MUT300: Mathematical knowledge for teaching (Master level)
+- MUT303: Teaching quality in mathematics (Master level)
+
+** University of Malawi, 2018–2019
+- SCE610: History and pedagogy of mathematics (Master level)
+
+** University of Stavanger, 2020–2021
+- MGL3121/4121: Problem solving in mathematics teaching (Master level)
+
+** University of Stavanger, 2021–2022
+- MGL3122/4122: Studying mathematics teaching (Master level)
+
+* DOCTORAL STUDENTS
+** Current Doctoral Advisees
+1. Ramesh Gautam, University of Stavanger (co-supervisor)
+2. Eskil Braseth, NTNU (co-supervisor)
+3. Anita Tyskerud, University of Stavanger (co-supervisor)
+4. Dun C. Nkhoma Kasoka, University of Malawi (co-supervisor)
+
+** Completed Doctoral Dissertations
+1. Fraser Pitros Rabson Gobede (2021). Investigating mediation strategies used by early years mathematics teachers in Malawi. University of Malawi (main supervisor).
+2. Per Einar Sæbbe (2019). Barnehagelæreres «matematikkundervisning» i barnehagen. University of Stavanger (main supervisor).
+3. Florence Mamba (2018). Investigating preservice secondary school teachers’ mathematical knowledge for teaching equations. University of Malawi (main supervisor).
+4. Lisnet Mwadzaangati (2017). An exploration of mathematical knowledge for teaching proof. University of Malawi (co-supervisor).
+5. Janne Fauskanger (2015). Å måle og registrere matematikklæreres undervisningskunnskap: En studie av hvordan det er mulig å måle og studere matematikklæreres undervisningskunnskap, og mulige begrensninger og styrker ved måter en måler og studerer kunnskap på.  University of Stavanger (co-supervisor). 
+
+* MASTER STUDENTS
+- Ananiassen, D. (2022). Dataspill som pedagogisk verktøy for læring i matematikkundervisningen. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+- Harestad, T. (2022). Elevers oppfatning av digitale verktøy og motivasjon i matematikkundervisningen. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+- Jakobsen, B. (2022). Kravene matematikklæreren blir stilt ovenfor i gjennomføringen av tilpasset opplæring i en stadig mer digital skolehverdag. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+- Nilssen, H. (2022). Læreres opplevelse av nytteverdien av «pålagt videreutdanning». Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+- Nærland, O. (2022). Dialogbasert undervisning: En lærers arbeid for å skape helklassediskusjoner. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+- Skavland, A. (2022). Elevers motivasjon knyttet til arbeid med digitale hjelpemidler. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+- Hinna, S. (2021). Hva som kreves for å bruke programmering i matematikkundervisning. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Høiland, E. (2021). Elever med stort læringspotensial sine erfaringer med matematikk og tilpasset opplæring i skolen og ved et eksternt pedagogisk tilbud. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Myge, A. (2021). Matematikkundervisning av desimaltall i en malawisk skolekontekst. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Stokka, K. (2021). Elever med stort læringspotensial og motivasjon i matematikk. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Viste, K. (2021). Det komplekse arbeidet med å respondere på elevers matematiske tenkning i helklassediskusjoner. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Eide, V.K. (2020). Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Helliesen, G.J. (2020). Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Digernes, P.H. (2020). Hvordan har de kognitive kravene i geometri utviklet seg i norske lærebøker? Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Aarrestad, R.E. (2020). Lærerens arbeid med å legge til rette for matematiske diskusjoner i klasserommet. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Chiyombo, A. (2020). Opportunity for learning number concepts and operations in mathematics that are provided in upper primary textbooks in Malawi. Master of mathematics education. University of Stavanger.
+- Grødem, J.N. (2020). En lærers bruk av samtaletrekk gir elevene muligheter for eksplorativ deltakelse i den matematiske diskursen. Master i matematikkdidaktikk. Universitetet i Stavanger. 
+- Reinertsen, C. (2020). Matematiske krav i ledelse av matematiske diskusjoner. Master i matematikkdidaktikk. Universitetet i Stavanger. 
+- Stokkeland, G. (2019). Master i matematikkdidaktikk. Universitetet i Stavanger. 
+- Waad, S. (2019). Matematiske diskusjoner: Hvordan etablerer lærere dette i undervisningen? Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Chisi, T. (2018). Master in mathematics and science education. University of Malawi.
+- Knotten, T. S. (2018). En analyse av den matematiske diskursen i klasserommet med omvendt undervisning. Master i matematikkdidaktikk. Universitetet i Stavanger. 
+- Vikshåland, N. M. (2017). Elevers utvikling av funksjonsdiskurs ved deltakelse i faget Matematikk 1P og noen mulige påvirkningsfaktorer. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Kathumba, C. (2016). Investigating the role of history of mathematical concepts in learning mathematics in upper secondary school level in Malawi. Master in mathematics and science education. University of Malawi.
+- Blomgren, O. (2016). En kommognitiv analyse av matematikkundervisning. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Hope, H. M. (2016). Lærere på småskoletrinnet sine oppfatninger om undervisningskunnskap i matematikk, med fokus på antallsforståelse. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Storegraven, R. (2016). Et kommognitivt blikk på eksempelbruk i matematikkundervisning. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Hetland, J. (2015). Hvordan bedre elevenes forståelse av ligninger? Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Tokheim, E. (2015). En analyse av tre norske læreverk i matematikk for 1. trinn. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Costin, K. (2015). Matematikklekser og foreldreinvolvering. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Sætrum, T.-M. (2015). Utforsking av faktorer som påvirker elevers valg av matematikkfag. Master i matematikkdidaktikk. Universitetet i Stavanger. 
+- Helgesen, H. (2014). Hvordan blir regnearten multiplikasjon introdusert i norske lærebøker? Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Steinshamn, A.U. (2014). En lærers utfordringer knyttet til bruk av matematikkhistorie i matematikkundervisning. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Tofsland, G. (2014). Opplæring i metakognisjon ved hjelp av selvspørring. Master i matematikkdidaktikk. Universitetet i Stavanger.
+- Boge, M. E. (2013). Læreres oppfatninger om undervisningskunnskap i matematikk knyttet til definisjoner. Masteroppgave i matematikkdidaktikk. Stavanger: Universitetet i Stavanger.
+- Jakobsen, T. T. (2013). Læreres oppfatninger om sammenhengen mellom skolematematikk og hverdagsliv. Masteroppgave i matematikkdidaktikk. Stavanger: Universitetet i Stavanger.
+- Refvik, E. (2013). Lærarar si oppfatning om deira undervisningskunnskap knyta til ulike representasjonar av brøk. Masteroppgave i matematikkdidaktikk. Stavanger: Universitetet i Stavanger.
+- Aarstad, O. I. (2010). Fokus på den spesialiserte fagkunnskapen – en intervjustudie for å identifisere og beskrive matematikklærerens fagkunnskap. Masteroppgave i grunnskolens matematikkfag. Stavanger: Universitetet i Stavanger.
+- Kirkerud, M. T. (2010). Læreres oppfatningers innvirkning på deres undervisningspraksis. Masteroppgave i grunnskolens matematikkfag. Stavanger: Universitetet i Stavanger.
+- Kristensen, M. S. (2010). Kunnskap om elevfeil i matematikk. Masteroppgave i grunnskolens matematikkfag. Stavanger: Universitetet i Stavanger.
+- Leclercq, K. (2010). Mathematics in kindergartens: learning or playing? A comparative study between Belgium and Norway. Masteroppgave i barnehagevitenskap. Stavanger: Universitetet i Stavanger.
+- Sæbbe, P. E. (2010). Klatrerom – en studie av førskolebarns romforståelse i en klatrekontekst. Masteroppgave i barnehagevitenskap. Stavanger: Universitetet i Stavanger.
