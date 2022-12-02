@@ -1,0 +1,38 @@
+#+title: Journals
+#+date: <2022-12-02 20:33>
+#+description: 
+#+filetags:
+* Major journals in mathematics education
+1. [[http://www.tandfonline.com/loi/rmse20#.VKVzU4qG_B8][African Journal of Mathematics, Science and Technology Education]] (Level 1)
+2. [[http://www.tandfonline.com/toc/ucjs20/current#.VKVz64qG_B8][Canadian Journal of Science, Mathematics and Technology Education]] (Level 1)
+3. [[http://link.springer.com/journal/10649][Educational Studies in Mathematics]] (Level 2)
+4. [[http://www.ejmste.com/][Eurasia Journal of Mathematics, Science and Technology Education]] (Level 1)
+5. [[http://scimath.net/][European Journal of Science and Mathematics Education]] (Level 1)
+6. [[http://www.pphmj.com/journals/fjme.htm][Far East Journal of Mathematical Education]] (Level 1)
+7. [[http://flm-journal.org/][For the learning of mathematics]] (Level 1)
+8. [[http://iejme.com/][International Electronic Journal of Mathematics Education]] (Level 1)
+9. [[http://www.comap.com/historyjournal/][International Journal for the History of Mathematics Education]] (Level 1)
+10. [[http://www.cimt.org.uk/ijmtl/index.php/IJMTL/index][International Journal for Mathematics Teaching and Learning]] (Level 1)
+11. [[http://www.tandfonline.com/toc/tmes20/current#.VZophxPtmko][International Journal of Mathematical Education in Science and Technology]] (Level 1)
+12. [[http://www.springer.com/education+%26+language/mathematics+education/journal/10763][International Journal of Science and Mathematics Education]] (Level 1)
+13. [[http://www.k-12prep.math.ttu.edu/journal/journal.shtml][Issues in the Undergraduate Mathematics Preparation of School Teachers: The Journal]] (Level 1)
+14. [[http://link.springer.com/journal/10857][Journal of Mathematics Teacher Education]] (Level 2)
+15. [[http://www.nctm.org/publications/journal-for-research-in-mathematics-education/][Journal for Research in Mathematics Education]] (Level 2)
+16. [[http://www.tandfonline.com/toc/hmtl20/current#.Vfhqw53tmko][Mathematical Thinking and Learning]] (Level 2)
+17. [[http://link.springer.com/journal/13394][Mathematics Education Research Journal]] (Level 1)
+18. [[https://mted.merga.net.au/index.php/mted][Mathematics Teacher Education and Development]] (Level 1)
+19. [[http://ncm.gu.se/nomad][Nordic Studies in Mathematics Education]] (Level 1)
+20. [[https://www.tandfonline.com/journals/upri20][PRIMUS – Problems, Resources, and Issues in Mathematics Undergraduate Studies]] (Level 1)
+21. [[http://www.pythagoras.org.za/index.php/pythagoras][Pythagoras]] (Level 1)
+22. [[http://hipatiapress.com/hpjournals/index.php/redimat][REDIMAT – Journal of Research in Mathematics Education]] (Level 1) 
+23. [[http://www.tandfonline.com/toc/rrme20/current][Research in Mathematics Education]] (Level 1) 
+24. [[http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291949-8594][School Science and Mathematics]] (Level 1)
+25. [[http://link.springer.com/journal/11191][Science & Education]] (Level 1)
+26. [[http://teamat.oxfordjournals.org/][Teaching Mathematics and its Applications]] (Level 1)
+27. [[http://www.journals.elsevier.com/the-journal-of-mathematical-behavior/][The Journal of Mathematical Behavior]] (Level 2)
+28. [[http://tme.coe.uga.edu/][The Mathematics Educator]] (Level 1)
+29. [[http://scholarworks.umt.edu/tme/][The Mathematics Enthusiast]] (Level 1)
+30. [[http://elib.mi.sanu.ac.rs/pages/browse_publication.php?db=tm][The Teaching of Mathematics]] (Level 1)
+31. [[http://link.springer.com/journal/11858][ZDM]] (Level 2)
+
+The levels refer to the [[https://kanalregister.hkdir.no/publiseringskanaler/Forside.action;jsessionid=KSk1WTEIkhcwuvRiUKcEHWZ+.undefined?request_locale=en][Norwegian register for Norwegian journals and publishers]], where level 2 is the highest level (top 20% journals in a field).     
