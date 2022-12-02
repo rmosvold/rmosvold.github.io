@@ -1,0 +1,5 @@
+#+title: Bio
+#+date: <2022-12-02 20:03>
+#+description: 
+#+filetags:
+Reidar Mosvold is [[https://www.uis.no/nb/profile/1982][professor of mathematics education]] at the University of Stavanger and [[https://www.ntnu.no/ansatte/reidamo][professor II at NTNU]], the Norwegian Centre for Mathematics Education. His  research mainly concentrates on developing mathematics teaching. Mosvold considers mathematics teaching to be a professional practice, and is interested in the mathematical demands that are embedded in the work of teaching. For over a decade, he has investigated the complexities involved in the work of teaching mathematics, attributes that influence this work—mainly teachers’ knowledge and beliefs, but also their identity and mathematical communication—and the development of mathematics teachers, both pre-service and in-service. His present research interests revolve around the following three areas: 1) what it means to be “smart” in mathematics and teachers’ positioning of students, 2) the work of leading mathematical discussions, and 3) methods for studying mathematics teaching.
