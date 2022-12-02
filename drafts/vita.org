@@ -4,7 +4,7 @@
 #+filetags:
 
 #+begin_center
-Reidar Mosvold \\
+*Reidar Mosvold* \\
 Professor of Mathematics Education \\
 Department of Education and Sports Science \\
 University of Stavanger \\
