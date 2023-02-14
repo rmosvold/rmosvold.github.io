@@ -1,0 +1,13 @@
+#+title: Time outs as site for studying MKT
+#+date: <2023-02-14 08:14>
+#+description: 
+#+filetags: articles
+
+I have recently published a new article entitled, “[[https://www.sciencedirect.com/science/article/pii/S073231232300007X?via%3Dihub][Teacher time out as a site for studying mathematical knowledge for teaching]]” with my colleagues [[https://www.ntnu.no/ansatte/kjersti.wage][Kjersti Wæge]] and [[https://www.uis.no/nb/profile/janne-fauskanger][Janne Fauskanger]]. The article is going to be published in an upcoming special issue of [[https://www.sciencedirect.com/journal/the-journal-of-mathematical-behavior][The Journal of Mathematical Behavior]], but it is already available online (open access). This article developed from an ICME-paper we presented at the recent [[https://icme14.org/static/en/index.html?v=86498275436][ICME 14]]. In this article, we develop a theoretical argument for why and how “teacher time outs” might be an interesting site for studying mathematical knowledge for teaching. The article draws on illustrative data from the Mastering Ambitious Mathematics teaching (MAM) project. A link to the Norwegian project web site can be found [[https://www.matematikksenteret.no/kompetanseutvikling-i-skolen/mam/om-mam-prosjektet][here]]. Below is the abstract of our article and full reference in APA format. I hope you enjoy reading it just as much as we enjoyed writing it!
+
+#+begin_quote
+The special mathematical knowledge that is needed for teaching has been studied for decades but the methods for studying it have challenges. Some methods, such as measurement and cognitive interviews, are removed from the dynamics of teaching. Other methods, such as observation, are closer to practice but mostly involve an outsider perspective. Moreover, few methods tap into the tacit and often invisible demands that teachers encounter in teaching. This article develops an argument that teacher time outs in rehearsals and enactments might be a productive site for studying mathematical knowledge for teaching. Teacher time outs constitute a site for professional deliberation, which 1) preserves the complexity and gets inside the dynamics of teaching, where 2) tacit and implicit challenges and demands are made explicit, and where 3) insider and outsider perspectives are combined.
+#+end_quote
+
+* Reference
+Mosvold, R., Wæge, K., & Fauskanger, J. (2023). Teacher Time Out as a Site for Studying Mathematical Knowledge for Teaching. /The Journal of Mathematical Behavior/, 70, 101037. https://doi.org/10.1016/j.jmathb.2023.101037
