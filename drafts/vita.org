@@ -445,45 +445,51 @@ University of Stavanger, 2007–2008
 5. Janne Fauskanger (2015). Å måle og registrere matematikklæreres undervisningskunnskap: En studie av hvordan det er mulig å måle og studere matematikklæreres undervisningskunnskap, og mulige begrensninger og styrker ved måter en måler og studerer kunnskap på.  University of Stavanger (co-supervisor). 
 
 * MASTER STUDENTS
-1. Ananiassen, D. (2022). Dataspill som pedagogisk verktøy for læring i matematikkundervisningen. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
-2. Harestad, T. (2022). Elevers oppfatning av digitale verktøy og motivasjon i matematikkundervisningen. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
-3. Jakobsen, B. (2022). Kravene matematikklæreren blir stilt ovenfor i gjennomføringen av tilpasset opplæring i en stadig mer digital skolehverdag. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
-4. Nilssen, H. (2022). Læreres opplevelse av nytteverdien av «pålagt videreutdanning». Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
-5. Nærland, O. (2022). Dialogbasert undervisning: En lærers arbeid for å skape helklassediskusjoner. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
-6. Skavland, A. (2022). Elevers motivasjon knyttet til arbeid med digitale hjelpemidler. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
-7. Hinna, S. (2021). Hva som kreves for å bruke programmering i matematikkundervisning. Master i matematikkdidaktikk. Universitetet i Stavanger.
-8. Høiland, E. (2021). Elever med stort læringspotensial sine erfaringer med matematikk og tilpasset opplæring i skolen og ved et eksternt pedagogisk tilbud. Master i matematikkdidaktikk. Universitetet i Stavanger.
-9. Myge, A. (2021). Matematikkundervisning av desimaltall i en malawisk skolekontekst. Master i matematikkdidaktikk. Universitetet i Stavanger.
-10. Stokka, K. (2021). Elever med stort læringspotensial og motivasjon i matematikk. Master i matematikkdidaktikk. Universitetet i Stavanger.
-11. Viste, K. (2021). Det komplekse arbeidet med å respondere på elevers matematiske tenkning i helklassediskusjoner. Master i matematikkdidaktikk. Universitetet i Stavanger.
-12. Eide, V.K. (2020). Master i matematikkdidaktikk. Universitetet i Stavanger.
-13. Helliesen, G.J. (2020). Master i matematikkdidaktikk. Universitetet i Stavanger.
-14. Digernes, P.H. (2020). Hvordan har de kognitive kravene i geometri utviklet seg i norske lærebøker? Master i matematikkdidaktikk. Universitetet i Stavanger.
-15. Aarrestad, R.E. (2020). Lærerens arbeid med å legge til rette for matematiske diskusjoner i klasserommet. Master i matematikkdidaktikk. Universitetet i Stavanger.
-16. Chiyombo, A. (2020). Opportunity for learning number concepts and operations in mathematics that are provided in upper primary textbooks in Malawi. Master of mathematics education. University of Stavanger.
-17. Grødem, J.N. (2020). En lærers bruk av samtaletrekk gir elevene muligheter for eksplorativ deltakelse i den matematiske diskursen. Master i matematikkdidaktikk. Universitetet i Stavanger. 
-18. Reinertsen, C. (2020). Matematiske krav i ledelse av matematiske diskusjoner. Master i matematikkdidaktikk. Universitetet i Stavanger. 
-19. Stokkeland, G. (2019). Master i matematikkdidaktikk. Universitetet i Stavanger. 
-20. Waad, S. (2019). Matematiske diskusjoner: Hvordan etablerer lærere dette i undervisningen? Master i matematikkdidaktikk. Universitetet i Stavanger.
-21. Chisi, T. (2018). Master in mathematics and science education. University of Malawi.
-22. Knotten, T. S. (2018). En analyse av den matematiske diskursen i klasserommet med omvendt undervisning. Master i matematikkdidaktikk. Universitetet i Stavanger. 
-23. Vikshåland, N. M. (2017). Elevers utvikling av funksjonsdiskurs ved deltakelse i faget Matematikk 1P og noen mulige påvirkningsfaktorer. Master i matematikkdidaktikk. Universitetet i Stavanger.
-24. Kathumba, C. (2016). Investigating the role of history of mathematical concepts in learning mathematics in upper secondary school level in Malawi. Master in mathematics and science education. University of Malawi.
-25. Blomgren, O. (2016). En kommognitiv analyse av matematikkundervisning. Master i matematikkdidaktikk. Universitetet i Stavanger.
-26. Hope, H. M. (2016). Lærere på småskoletrinnet sine oppfatninger om undervisningskunnskap i matematikk, med fokus på antallsforståelse. Master i matematikkdidaktikk. Universitetet i Stavanger.
-27. Storegraven, R. (2016). Et kommognitivt blikk på eksempelbruk i matematikkundervisning. Master i matematikkdidaktikk. Universitetet i Stavanger.
-28. Hetland, J. (2015). Hvordan bedre elevenes forståelse av ligninger? Master i matematikkdidaktikk. Universitetet i Stavanger.
-29. Tokheim, E. (2015). En analyse av tre norske læreverk i matematikk for 1. trinn. Master i matematikkdidaktikk. Universitetet i Stavanger.
-30. Costin, K. (2015). Matematikklekser og foreldreinvolvering. Master i matematikkdidaktikk. Universitetet i Stavanger.
-31. Sætrum, T.-M. (2015). Utforsking av faktorer som påvirker elevers valg av matematikkfag. Master i matematikkdidaktikk. Universitetet i Stavanger. 
-32. Helgesen, H. (2014). Hvordan blir regnearten multiplikasjon introdusert i norske lærebøker? Master i matematikkdidaktikk. Universitetet i Stavanger.
-33. Steinshamn, A.U. (2014). En lærers utfordringer knyttet til bruk av matematikkhistorie i matematikkundervisning. Master i matematikkdidaktikk. Universitetet i Stavanger.
-34. Tofsland, G. (2014). Opplæring i metakognisjon ved hjelp av selvspørring. Master i matematikkdidaktikk. Universitetet i Stavanger.
-35. Boge, M. E. (2013). Læreres oppfatninger om undervisningskunnskap i matematikk knyttet til definisjoner. Masteroppgave i matematikkdidaktikk. Stavanger: Universitetet i Stavanger.
-36. Jakobsen, T. T. (2013). Læreres oppfatninger om sammenhengen mellom skolematematikk og hverdagsliv. Masteroppgave i matematikkdidaktikk. Stavanger: Universitetet i Stavanger.
-37. Refvik, E. (2013). Lærarar si oppfatning om deira undervisningskunnskap knyta til ulike representasjonar av brøk. Masteroppgave i matematikkdidaktikk. Stavanger: Universitetet i Stavanger.
-38. Aarstad, O. I. (2010). Fokus på den spesialiserte fagkunnskapen – en intervjustudie for å identifisere og beskrive matematikklærerens fagkunnskap. Masteroppgave i grunnskolens matematikkfag. Stavanger: Universitetet i Stavanger.
-39. Kirkerud, M. T. (2010). Læreres oppfatningers innvirkning på deres undervisningspraksis. Masteroppgave i grunnskolens matematikkfag. Stavanger: Universitetet i Stavanger.
-40. Kristensen, M. S. (2010). Kunnskap om elevfeil i matematikk. Masteroppgave i grunnskolens matematikkfag. Stavanger: Universitetet i Stavanger.
-41. Leclercq, K. (2010). Mathematics in kindergartens: learning or playing? A comparative study between Belgium and Norway. Masteroppgave i barnehagevitenskap. Stavanger: Universitetet i Stavanger.
-42. Sæbbe, P. E. (2010). Klatrerom – en studie av førskolebarns romforståelse i en klatrekontekst. Masteroppgave i barnehagevitenskap. Stavanger: Universitetet i Stavanger.
+1. Hermansen, M. A. (2023). Lærerspørsmål som fører til elevforklaringer i matematiske helklassesamtaler. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+2. Kommedal, H. (2023). Lærerhandlinger som følger opp elevhandlinger i helklassesamtaler: En studie av matematikkundervisning på 5. trinn. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+3. Lillestøl, I. (2023). Elevar sine forklaringar i matematiske heilklassediskusjonar og læraren sin respons på desse: Ein kasusstudie av matematikkundervisning på 5. trinn. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+4. Masina, F. (2023). Opportunity to learn problem solving in Malawian grades 9 and 10 mathematics Textbooks: Linear Equations and Simultaneous Linear equations. Master in mathematics education. University of Stavanger. 
+5. Røe, C. B. (2023). En matematikklærers bruk av spørsmål i helklassesamtaler. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+6. Ulveraker, L. H. (2023). «Hva tenker vi?»: En lærers respons på feil i matematiske diskusjoner. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+7. Ananiassen, D. (2022). Dataspill som pedagogisk verktøy for læring i matematikkundervisningen. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+8. Harestad, T. (2022). Elevers oppfatning av digitale verktøy og motivasjon i matematikkundervisningen. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+9. Jakobsen, B. (2022). Kravene matematikklæreren blir stilt ovenfor i gjennomføringen av tilpasset opplæring i en stadig mer digital skolehverdag. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+10. Nilssen, H. (2022). Læreres opplevelse av nytteverdien av «pålagt videreutdanning». Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+11. Nærland, O. (2022). Dialogbasert undervisning: En lærers arbeid for å skape helklassediskusjoner. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+12. Skavland, A. (2022). Elevers motivasjon knyttet til arbeid med digitale hjelpemidler. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
+13. Hinna, S. (2021). Hva som kreves for å bruke programmering i matematikkundervisning. Master i matematikkdidaktikk. Universitetet i Stavanger.
+14. Høiland, E. (2021). Elever med stort læringspotensial sine erfaringer med matematikk og tilpasset opplæring i skolen og ved et eksternt pedagogisk tilbud. Master i matematikkdidaktikk. Universitetet i Stavanger.
+15. Myge, A. (2021). Matematikkundervisning av desimaltall i en malawisk skolekontekst. Master i matematikkdidaktikk. Universitetet i Stavanger.
+16. Stokka, K. (2021). Elever med stort læringspotensial og motivasjon i matematikk. Master i matematikkdidaktikk. Universitetet i Stavanger.
+17. Viste, K. (2021). Det komplekse arbeidet med å respondere på elevers matematiske tenkning i helklassediskusjoner. Master i matematikkdidaktikk. Universitetet i Stavanger.
+18. Eide, V.K. (2020). Master i matematikkdidaktikk. Universitetet i Stavanger.
+19. Helliesen, G.J. (2020). Master i matematikkdidaktikk. Universitetet i Stavanger.
+20. Digernes, P.H. (2020). Hvordan har de kognitive kravene i geometri utviklet seg i norske lærebøker? Master i matematikkdidaktikk. Universitetet i Stavanger.
+21. Aarrestad, R.E. (2020). Lærerens arbeid med å legge til rette for matematiske diskusjoner i klasserommet. Master i matematikkdidaktikk. Universitetet i Stavanger.
+22. Chiyombo, A. (2020). Opportunity for learning number concepts and operations in mathematics that are provided in upper primary textbooks in Malawi. Master of mathematics education. University of Stavanger.
+23. Grødem, J.N. (2020). En lærers bruk av samtaletrekk gir elevene muligheter for eksplorativ deltakelse i den matematiske diskursen. Master i matematikkdidaktikk. Universitetet i Stavanger. 
+24. Reinertsen, C. (2020). Matematiske krav i ledelse av matematiske diskusjoner. Master i matematikkdidaktikk. Universitetet i Stavanger. 
+25. Stokkeland, G. (2019). Master i matematikkdidaktikk. Universitetet i Stavanger. 
+26. Waad, S. (2019). Matematiske diskusjoner: Hvordan etablerer lærere dette i undervisningen? Master i matematikkdidaktikk. Universitetet i Stavanger.
+27. Chisi, T. (2018). Master in mathematics and science education. University of Malawi.
+28. Knotten, T. S. (2018). En analyse av den matematiske diskursen i klasserommet med omvendt undervisning. Master i matematikkdidaktikk. Universitetet i Stavanger. 
+29. Vikshåland, N. M. (2017). Elevers utvikling av funksjonsdiskurs ved deltakelse i faget Matematikk 1P og noen mulige påvirkningsfaktorer. Master i matematikkdidaktikk. Universitetet i Stavanger.
+30. Kathumba, C. (2016). Investigating the role of history of mathematical concepts in learning mathematics in upper secondary school level in Malawi. Master in mathematics and science education. University of Malawi.
+31. Blomgren, O. (2016). En kommognitiv analyse av matematikkundervisning. Master i matematikkdidaktikk. Universitetet i Stavanger.
+32. Hope, H. M. (2016). Lærere på småskoletrinnet sine oppfatninger om undervisningskunnskap i matematikk, med fokus på antallsforståelse. Master i matematikkdidaktikk. Universitetet i Stavanger.
+33. Storegraven, R. (2016). Et kommognitivt blikk på eksempelbruk i matematikkundervisning. Master i matematikkdidaktikk. Universitetet i Stavanger.
+34. Hetland, J. (2015). Hvordan bedre elevenes forståelse av ligninger? Master i matematikkdidaktikk. Universitetet i Stavanger.
+35. Tokheim, E. (2015). En analyse av tre norske læreverk i matematikk for 1. trinn. Master i matematikkdidaktikk. Universitetet i Stavanger.
+36. Costin, K. (2015). Matematikklekser og foreldreinvolvering. Master i matematikkdidaktikk. Universitetet i Stavanger.
+37. Sætrum, T.-M. (2015). Utforsking av faktorer som påvirker elevers valg av matematikkfag. Master i matematikkdidaktikk. Universitetet i Stavanger. 
+38. Helgesen, H. (2014). Hvordan blir regnearten multiplikasjon introdusert i norske lærebøker? Master i matematikkdidaktikk. Universitetet i Stavanger.
+39. Steinshamn, A.U. (2014). En lærers utfordringer knyttet til bruk av matematikkhistorie i matematikkundervisning. Master i matematikkdidaktikk. Universitetet i Stavanger.
+40. Tofsland, G. (2014). Opplæring i metakognisjon ved hjelp av selvspørring. Master i matematikkdidaktikk. Universitetet i Stavanger.
+41. Boge, M. E. (2013). Læreres oppfatninger om undervisningskunnskap i matematikk knyttet til definisjoner. Masteroppgave i matematikkdidaktikk. Stavanger: Universitetet i Stavanger.
+42. Jakobsen, T. T. (2013). Læreres oppfatninger om sammenhengen mellom skolematematikk og hverdagsliv. Masteroppgave i matematikkdidaktikk. Stavanger: Universitetet i Stavanger.
+43. Refvik, E. (2013). Lærarar si oppfatning om deira undervisningskunnskap knyta til ulike representasjonar av brøk. Masteroppgave i matematikkdidaktikk. Stavanger: Universitetet i Stavanger.
+44. Aarstad, O. I. (2010). Fokus på den spesialiserte fagkunnskapen – en intervjustudie for å identifisere og beskrive matematikklærerens fagkunnskap. Masteroppgave i grunnskolens matematikkfag. Stavanger: Universitetet i Stavanger.
+45. Kirkerud, M. T. (2010). Læreres oppfatningers innvirkning på deres undervisningspraksis. Masteroppgave i grunnskolens matematikkfag. Stavanger: Universitetet i Stavanger.
+46. Kristensen, M. S. (2010). Kunnskap om elevfeil i matematikk. Masteroppgave i grunnskolens matematikkfag. Stavanger: Universitetet i Stavanger.
+47. Leclercq, K. (2010). Mathematics in kindergartens: learning or playing? A comparative study between Belgium and Norway. Masteroppgave i barnehagevitenskap. Stavanger: Universitetet i Stavanger.
+48. Sæbbe, P. E. (2010). Klatrerom – en studie av førskolebarns romforståelse i en klatrekontekst. Masteroppgave i barnehagevitenskap. Stavanger: Universitetet i Stavanger.
