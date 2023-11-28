@@ -49,7 +49,7 @@ Developing mathematics teaching, mathematical knowledge for teaching, leading ma
 
 ** Peer-reviewed Journal Articles
 1. Hoover, M., Dahlgren, M., Mosvold, R., & Goffney, I. (in press). Conceptions of teaching and justice as pivotal to mathematics teacher educators’ thinking about mathematical knowledge for teaching. /Journal of Mathematics Teacher Education/. 
-2. Masina, F., & Mosvold, R. (in press). Impediments to learning problem-solving in Malawian lower secondary mathematics textbooks. /African Journal of Teacher Education and Development/. https://doi.org/10.4102/ajoted.v2i1.23
+2. Masina, F., & Mosvold, R. (2023). Impediments to learning problem-solving in Malawian lower secondary mathematics textbooks. /African Journal of Teacher Education and Development/, 2(1), a23. https://doi.org/10.4102/ajoted.v2i1.23
 3. Tyskerud, A., Mosvold, R., & Bjuland, R. (2023). Commognitive Conflicts in Mathematics Teachers' Pedagogical Discourse in Lesson Study. /Mathematics Teacher Education and Development/, 25(1), 81–92.
 4. Mosvold, R., Wæge, K., & Fauskanger, J. (2023). Teacher Time Out as a Site for Studying Mathematical Knowledge for Teaching. /The Journal of Mathematical Behavior/, 70, 101037. https://doi.org/10.1016/j.jmathb.2023.101037
 5. Mosvold, R. (2022). Mathematical knowledge for teaching in Africa 2014–2021: A review of literature. /African Journal of Teacher Education and Development/, 1(1), a10. https://doi.org/10.4102/ajoted.v1i1.10 
