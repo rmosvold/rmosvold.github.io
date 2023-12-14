@@ -1,0 +1,17 @@
+#+title: Article on mathematics teacher educators' conceptions of MKT
+#+date: <2023-12-14 17:43>
+#+description: 
+#+filetags: articles
+Some articles take longer than others to publish. I have recently published a new article in Journal of Mathematics Teacher Education (Hoover et al., 2023). We started working on this study when I had my sabbatical in Michigan in 2017–2018, so this one has been in the making for a long time. Matt and I spent a lot of time with the initial analyses and work, then Mark came along and took a leader role in the study. After I moved back to Norway in August 2018, the three of us had weekly Zoom meetings where we worked on analysis and later writing for a long time. Along the way, we developed, presented and published two CERME papers on preliminary parts of this work (Dahlgren et al., 2019, 2022). It is therefore a great pleasure to finally see the finished article in print! You can find the abstract of the article below:
+
+#+begin_quote
+Recent scholarship has explored mathematical demands faced by mathematics teacher educators and ways to support their development, but little attention has been given to the basic question of how mathematics teacher educators think about content knowledge for teaching. Knowing what they think could inform efforts to support them. Our analysis reveals that some think about mathematical knowledge for teaching as an independent, abstracted resource to be taught and learned in relative isolation from teaching, while others think about it as dynamic, situated work. We argue that this key difference matters for how they work with teachers. Further, our analysis reveals that their thinking about both teaching and justice interacts with their thinking about mathematical knowledge for teaching and that their thinking in these other two domains can be a resource for supporting their mathematical development. 
+#+end_quote
+
+
+* References
+Dahlgren, M., Mosvold, R., & Hoover, M. (2019). Teacher educators’ understanding of mathematical knowledge for teaching. In U. T. Jankvist, M. Van den Heuvel-Panhuizen, & M. Veldhuis (Eds.), /Proceedings of the Eleventh Congress of the European Society for Research in Mathematics Education/ (pp. 3887–3894). European Society for Research in Mathematics Education.
+
+Dahlgren, M., Hoover, M., & Mosvold, R. (2022). Mathematics teacher educators' thinking about mutuality in teaching. In J. Hodgen, E. Geraniou, G. Bolondi, & F. Ferretti (Eds.), /Proceedings of the Twelfth Congress of the European Society for Research in Mathematics Education (CERME12)/ (pp. 3551–3558). Free University of Bozen-Bolzano and ERME.
+
+Hoover, M., Dahlgren, M., Mosvold, R., & Goffney, I. (2023). [[https://rdcu.be/dtfZq][Conceptions of teaching and justice as pivotal to mathematics teacher educators’ thinking about mathematical knowledge for teaching]]. /Journal of Mathematics Teacher Education/. https://doi.org/10.1007/s10857-023-09609-z
