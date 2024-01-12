@@ -1,0 +1,7 @@
+#+title: Proceedings from CERME 13
+#+date: <2024-01-12 15:45>
+#+description: 
+#+filetags: cerme
+The [[https://cerme13.renyi.hu/][CERME 13 conference]] was held in Budapest, Hungary, in 2023. Even though the conference was arranged in the summer (July 10–14), the organizers have been able to finish the conference proceedings in record time. The full proceedings are now available at: http://erme.site/cerme-proceedings-series/
+
+As the leader of TWG19, I obviously recommend the papers from that group, but there are many interesting papers to read, and the full proceedings constitute more than 5,000 pages. Happy reading! 
