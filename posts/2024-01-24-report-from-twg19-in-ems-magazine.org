@@ -1,0 +1,8 @@
+#+title: Report from TWG19 in EMS Magazine
+#+date: <2024-01-24 16:03>
+#+description: 
+#+filetags: cerme, articles
+The [[https://euromathsoc.org/][European Mathematical Society]] (EMS) [[https://euromathsoc.org/magazine][Magazine]] has a column with news from the European Society for Research in Mathematics Education ([[http://erme.site/][ERME]]). In the upcoming issue, this column contains a [[https://doi.org/10.4171/mag/171][brief report]] of the activities from Thematic Working Group 19 (TWG19), on /Mathematics Teaching and Teacher Practice(s)/, which I am leading. In this report, you can read about the focus of our working group—and how it is positioned in the field of research on  mathematics teaching—the history of the group, and current efforts in the group. If you are interested in research on mathematics teaching, or in learning more about the work in our group, I recommend reading this brief paper! 
+
+
+
