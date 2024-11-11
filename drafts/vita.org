@@ -48,7 +48,7 @@ Developing mathematics teaching, mathematical knowledge for teaching, leading ma
 6. Bekken, O.B., & Mosvold, R. (Eds.) (2003). Study the Masters. Gothenburg: National Center for Mathematics Education.
 
 ** Peer-reviewed Journal Articles
-1. Bjuland, R., Mosvold, R., & Fauskanger, J. (2024). Analyzing teachers’ narratives to identify potential impediments of professional development in mathematics. /Nordic Studies in Mathematics Education/, 29(3-4), 83–100.
+1. Bjuland, R., Fauskanger, J., & Mosvold, R. (2024). Analyzing teachers’ narratives to identify potential impediments of professional development in mathematics. /Nordic Studies in Mathematics Education/, 29(3-4), 83–100.
 2. Mosvold, R., Fauskanger, J., & Bjuland, R. (2024). Using Quantitative Text Analysis to Investigate Communication in Practice-based Professional Development. /Journal of Educational Research in Mathematics/, 34(3), 485–510. https://doi.org/10.29275/jerm.2024.34.3.485
 3. Hoover, M., Dahlgren, M., Mosvold, R., & Goffney, I. (2023). Conceptions of teaching and justice as pivotal to mathematics teacher educators’ thinking about mathematical knowledge for teaching. /Journal of Mathematics Teacher Education/. https://doi.org/10.1007/s10857-023-09609-z 
 4. Masina, F., & Mosvold, R. (2023). Impediments to learning problem-solving in Malawian lower secondary mathematics textbooks. /African Journal of Teacher Education and Development/, 2(1), a23. https://doi.org/10.4102/ajoted.v2i1.23
