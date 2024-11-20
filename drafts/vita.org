@@ -96,7 +96,7 @@ Developing mathematics teaching, mathematical knowledge for teaching, leading ma
 46. Fauskanger, J. & Mosvold, R. (2008). Kunnskaper og oppfatninger – implikasjoner for etterutdanning. Norsk Pedagogisk Tidsskrift, 92(3), 187–197.
 
 ** Book Chapters 
-1. Mosvold, R. (2024). PISA og den internasjonale forskningen. I A. Pettersen & F. Jensen (red.), Matematisk kompetanse – i dybden på resultater fra PISA 2022 (Kap. 11, s. 251–272). Cappelen Damm Akademisk. https://doi.org/10.23865/noasp.222.ch11
+1. Mosvold, R. (2024). PISA og den internasjonale forskningen. I A. Pettersen & F. Jensen (red.), Matematisk kompetanse – i dybden på resultater fra PISA 2022 (Kap. 11, s. 251–272). Cappelen Damm Akademisk. https://doi.org/10.23865/cdf.222.ch11
 2. Mosvold, R. (2024). Research on discussion in mathematics teaching: A review of literature from 2000 to 2020. In J. Wang (Ed.), Proceedings of the 14th International Congress on Mathematical Education (Volume II: Invited Lectures), (pp. 473–488). World Scientific Publishing House. https://doi.org/10.1142/9789811287183_0032
 3. Wæge, K., Fauskanger, J., & Mosvold, R. (2024). Supporting Norwegian teachers’ collective learning of core practices through cycles of enactment and investigation. In P. Grossman & U. Fraefel (Eds.), Core practices in teacher education: A global perspective (pp. 117–138). Harvard Education Press.
 4. Sæbbe, P.-E., & Mosvold, R. (2020). The complexity of teaching mathematics in kindergarten: A case study and conceptualization. In M. Carlsen, I. Erfjord, & P. S. Hundeland (Eds.), Mathematics Education in the Early Years: Results from the POEM4 Conference, 2018 (pp. 385–400). Springer Nature. 
