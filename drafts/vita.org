@@ -443,17 +443,18 @@ University of Stavanger, 2007–2008
 
 * DOCTORAL STUDENTS
 ** Current Doctoral Advisees
-1. Ramesh Gautam, University of Stavanger (co-supervisor)
-2. Anita Tyskerud, University of Stavanger (co-supervisor)
-3. Dun C. Nkhoma Kasoka, University of Malawi (co-supervisor)
+- Anita Tyskerud, University of Stavanger (co-supervisor)
+- Dun C. Nkhoma Kasoka, University of Malawi (co-supervisor)
 
 ** Completed Doctoral Dissertations
-1. Braseth, Eskil (2024). Mathematics teachers’ professional development in a practice-base development program: A case study of three lower secondary teachers’, school management’s, and three teacher educators’ experiences of a practice-based development program in mathematics. NTNU (co-supervisor). 
-2. Fraser Pitros Rabson Gobede (2021). Investigating mediation strategies used by early years mathematics teachers in Malawi. University of Malawi (main supervisor).
-3. Per Einar Sæbbe (2019). Barnehagelæreres «matematikkundervisning» i barnehagen. University of Stavanger (main supervisor).
-4. Florence Mamba (2018). Investigating preservice secondary school teachers’ mathematical knowledge for teaching equations. University of Malawi (main supervisor).
-5. Lisnet Mwadzaangati (2017). An exploration of mathematical knowledge for teaching proof. University of Malawi (co-supervisor).
-6. Janne Fauskanger (2015). Å måle og registrere matematikklæreres undervisningskunnskap: En studie av hvordan det er mulig å måle og studere matematikklæreres undervisningskunnskap, og mulige begrensninger og styrker ved måter en måler og studerer kunnskap på.  University of Stavanger (co-supervisor). 
+1. Åsmund Lillevik Gjære (2025). Implementing Developmental Education in Mathematics: Characteristics of practice and dilemmas of teaching. University of Stavanger (co-supervisor).
+2. Ramesh Gautam (2025). TPACK in Teacher Education: Exploring Pre-service Teachers’ Knowledge to Integrate Technology in Mathematics. University of Stavanger. (co-supervisor)
+3. Eskil Braseth (2024). Mathematics teachers’ professional development in a practice-base development program: A case study of three lower secondary teachers’, school management’s, and three teacher educators’ experiences of a practice-based development program in mathematics. NTNU (co-supervisor). 
+4. Fraser Pitros Rabson Gobede (2021). Investigating mediation strategies used by early years mathematics teachers in Malawi. University of Malawi (main supervisor).
+5. Per Einar Sæbbe (2019). Barnehagelæreres «matematikkundervisning» i barnehagen. University of Stavanger (main supervisor).
+6. Florence Mamba (2018). Investigating preservice secondary school teachers’ mathematical knowledge for teaching equations. University of Malawi (main supervisor).
+7. Lisnet Mwadzaangati (2017). An exploration of mathematical knowledge for teaching proof. University of Malawi (co-supervisor).
+8. Janne Fauskanger (2015). Å måle og registrere matematikklæreres undervisningskunnskap: En studie av hvordan det er mulig å måle og studere matematikklæreres undervisningskunnskap, og mulige begrensninger og styrker ved måter en måler og studerer kunnskap på.  University of Stavanger (co-supervisor). 
 
 * MASTER STUDENTS
 1. Hermansen, M. A. (2023). Lærerspørsmål som fører til elevforklaringer i matematiske helklassesamtaler. Master i grunnskolelærerutdanning – matematikk. Universitetet i Stavanger.
