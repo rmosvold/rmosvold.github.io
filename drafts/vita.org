@@ -49,52 +49,53 @@ Developing mathematics teaching, mathematical knowledge for teaching, leading ma
 
 ** Peer-reviewed Journal Articles
 1. Mosvold, R., & Thente, N. (2025). Investigating natural differences in mathematics teacher questioning over time. /International Journal for Mathematics Teaching and Learning/, 25(1), 106–119. 
-2. Bjuland, R., Fauskanger, J., & Mosvold, R. (2024). Analyzing teachers’ narratives to identify potential impediments of professional development in mathematics. /Nordic Studies in Mathematics Education/, 29(3-4), 83–100. https://ncm.gu.se/wp-content/uploads/2024/11/29_34_083100_bjuland.pdf
-3. Mosvold, R., Fauskanger, J., & Bjuland, R. (2024). Using Quantitative Text Analysis to Investigate Communication in Practice-based Professional Development. /Journal of Educational Research in Mathematics/, 34(3), 485–510. https://doi.org/10.29275/jerm.2024.34.3.485
-4. Hoover, M., Dahlgren, M., Mosvold, R., & Goffney, I. (2023). Conceptions of teaching and justice as pivotal to mathematics teacher educators’ thinking about mathematical knowledge for teaching. /Journal of Mathematics Teacher Education/. https://doi.org/10.1007/s10857-023-09609-z 
-5. Masina, F., & Mosvold, R. (2023). Impediments to learning problem-solving in Malawian lower secondary mathematics textbooks. /African Journal of Teacher Education and Development/, 2(1), a23. https://doi.org/10.4102/ajoted.v2i1.23
-6. Tyskerud, A., Mosvold, R., & Bjuland, R. (2023). Commognitive Conflicts in Mathematics Teachers' Pedagogical Discourse in Lesson Study. /Mathematics Teacher Education and Development/, 25(1), 81–92.
-7. Mosvold, R., Wæge, K., & Fauskanger, J. (2023). Teacher Time Out as a Site for Studying Mathematical Knowledge for Teaching. /The Journal of Mathematical Behavior/, 70, 101037. https://doi.org/10.1016/j.jmathb.2023.101037
-8. Mosvold, R. (2022). Mathematical knowledge for teaching in Africa 2014–2021: A review of literature. /African Journal of Teacher Education and Development/, 1(1), a10. https://doi.org/10.4102/ajoted.v1i1.10 
-9. Gobede, F., & Mosvold, R. (2022). Studying dilemmas of mathematics teaching in Southern Africa.  /African Journal of Teacher Education and Development, 1/ (1), a4. https://doi.org/10.4102/ajoted.v1i1.4
-10. Gobede, F., Mosvold, R., & Jakobsen, A. (2022). Comparing two frameworks for exploring the quality of mathematics teaching in a Malawian primary classroom. African Journal of Research in Mathematics, Science and Technology Education. https://doi.org/10.1080/18117295.2022.2100662
-11. Justnes, C. N., & Mosvold, R. (2022). Scrutinizing Norwegian kindergarten teachers’ considerations about talk moves. Nordic Studies in Mathematics Education, 27(2), 5–20.
-12. Maugesten, M., Mosvold , R., & Fauskanger , J. (2021). Matematikklæreres refleksjoner om egne undervisningsutfordringer. Acta Didactica Norden, 15(1). https://doi.org/10.5617/adno.8640  
-13. Jankvist, U.T., Clark, K.M., & Mosvold, R. (2020). Developing mathematical knowledge for teaching teachers: potentials of history of mathematics in teacher educator training. Journal of Mathematics Teacher Education, 23(3), 311–332. doi:10.1007/s10857-018-09424-x
-14. Mosvold, R., Fauskanger, J., & Wæge, K. (2018). Fra undervisningskunnskap i matematikk til kjernepraksiser – endringer i grunnskolelærerutdanningens matematikkfag. Uniped, 41(4), 401–411.
-15. Tyskerud, A., & Mosvold, R. (2018). Scrutinizing teacher-learner interactions on volume. Nordic Studies in Mathematics Education, 23(2), 49–67. 
-16. Larssen, D.L.S., Cajkler, W., Mosvold, R., Bjuland, R., Helgevold, N., Fauskanger, J., Wood, P., Baldry, F., Jakobsen, A., Bugge, H.E., Næsheim-Bjørkvik, G., & Norton, J. (2018). A literature review of lesson study in initial teacher education: perspectives about learning and observation. International Journal for Lesson & Learning Studies, 7(1), 8–22.
-17. Mosvold, R. (2017). Studier av undervisningskunnskap i matematikk: Internasjonale trender og nordiske bidrag. Nordic Studies in Mathematics Education, 22(2), 51–69.
-18. Sæbbe, P.-E. & Mosvold, R. (2016). Initiating a conceptualization of the professional work of teaching mathematics in kindergarten in terms of discourse. Nordic Studies in Mathematics Education, 21(4), 79–93.
-19. Fauskanger, J. & Mosvold, R. (2016). Lærerarbeidets matematiske undervisningsoppgaver. Nordic Studies in Mathematics Education, 21(3), 73–88.
-20. Mosvold, R., Hanssen, B., & Fauskanger, J. (2016). På jakt etter fagdidaktikk i nasjonale retningslinjer for grunnskolelærerutdanningens matematikkfag. Acta Didactica Norge, 10(3), Art. 6.
-21. Fauskanger, J. & Mosvold, R. (2016). Why are mathematics teachers “not sure”? Mathematics Teacher Education and Development, 18(2), 107–123.
-22. Mosvold, R. & Bjuland, R. (2016). Positioning in identifying narratives of/about pre-service mathematics teachers in field practice. Teaching and Teacher Education, 58, 90–98. DOI: 10.1016/j.tate.2016.05.005
-23. Fauskanger, J., Mosvold, R., & Kristensen, M. (2016). Født sånn, eller blitt sånn? Matematikklæreres oppfatninger om evnen til å undervise. Acta Didactica Norge, 10(1), Art. 7.
-24. Mosvold, R. & Ohnstad, F. O. (2016). Profesjonsetiske perspektiver på læreres omtaler av elever. Norsk Pedagogisk Tidsskrift, 100(1), 26–36.
-25. Hoover, M., Mosvold, R., Ball, D. L., & Lai, Y. (2016). Making progress on mathematical knowledge for teaching. The Mathematics Enthusiast, 13(1–2), 3–34. 
-26. Bjuland, R. & Mosvold, R. (2015). Lesson study in teacher education: learning from a challenging case. Teaching and Teacher Education, 52, 83–90.
-27. Mosvold, R. (2015). Lærerstudenters tingliggjøring av elevers prestasjoner. Tidsskriftet FoU i praksis, 9(1), 51–66.
-28. Fauskanger, J. & Mosvold, R. (2015). En metodisk studie av innholdsanalyse – med analyser av matematikklæreres undervisningskunnskap som eksempel. Nordic Studies in Mathematics Education, 20(2), 79–96.
-29. Mosvold, R. & Fauskanger, J. (2015). Kartlegging av læreres kunnskap er ikke enkelt. Acta Didactica Norge, 9(1), Art.nr. 7.
-30. Mosvold, R. & Bjuland, R. (2015). Lærerstudenters utvikling av matematikklæreridentitet. Norsk Pedagogisk Tidsskrift, 99(2), 97–109.
-31. Jankvist, U. T., Mosvold, R., Fauskanger, J., & Jakobsen, A. (2015). Analysing the use of history of mathematics through MKT. International Journal of Mathematical Education in Science and Technology, 46(4), 495–507.
-32. Bjuland, R. & Mosvold, R. (2014). Lærerstudenters refleksjoner om utvikling av læringsfellesskap. Uniped – Tidsskrift for Universitets- og Høgskolepedagogikk, 37(4), 46–57.
-33. Hoover, M., Mosvold, R. & Fauskanger, J. (2014). Common tasks of teaching as a resource for measuring professional content knowledge internationally. Nordic Studies in Mathematics Education, 19(3–4), 7–20.
-34. Fauskanger, J. & Mosvold, R. (2014). Studying teachers’ knowledge by the use of multiple-choice items. The case of “I’m not sure”. Nordic Studies in Mathematics Education, 19(3–4), 41–55.
-35. Mosvold, R. & Fauskanger, J. (2014, September 25). Teachers’ beliefs about mathematical horizon content knowledge. International Journal for Mathematics Teaching and Learning. Retrieved September 26, 2014, from http://www.cimt.plymouth.ac.uk/journal/mosvold2.pdf
-36. Fauskanger, J. & Mosvold, R. (2014). Innholdsanalysens muligheter i utdanningsforskning. Norsk Pedagogisk Tidsskrift, 98(2), 127–139.
-37. Mosvold, R., Jakobsen, A., & Jankvist, U.T. (2014). How mathematical knowledge for teaching may profit from the study of history of mathematics. Science & Education, 23(1), 47–60.
-38. Mosvold, R. & Fauskanger, J. (2013). Teachers’ beliefs about mathematical knowledge for teaching definitions. International Electronic Journal of Mathematics Education, 8(2–3), 43–61.
-39. Sæbbe, P.E. & Mosvold, R. (2013). “Han går oppover mens han går nedover!” Femåringers refleksjoner om vertikal forflytning i forbindelse med klatring. Nordisk barnehageforskning, 6, art. nr. 18, 1–15.
-40. Fauskanger, J., Jakobsen, A., Mosvold, R., & Bjuland, R. (2012). Analysis of psychometric properties as part of an iterative adaptation process of MKT items for use in other countries. ZDM – The International Journal of Mathematics Education, 44(3), 387–399.
-41. Ng, D., Mosvold, R., & Fauskanger, J. (2012). Translating and Adapting the Mathematical Knowledge for Teaching (MKT) Measures: The Cases of Indonesia and Norway. The Mathematics Enthusiast, 9(1&2), 149–178.
-42. Fauskanger, J., Mosvold, R., Bjuland, R., & Jakobsen, A. (2011). Does the format matter? How the multiple-choice format might complicate the MKT items. Nordic Studies in Mathematics Education, 16(4), 45–67.
-43. Mosvold, R. & Bjuland, R. (2011). An activity theory view on learning studies. International Journal of Early Childhood, 43(3), 261–275.
-44. Fauskanger, J. & Mosvold, R. (2010). Undervisningskunnskap i matematikk: Tilpasning av en amerikansk undersøkelse til norsk, og læreres opplevelse av undersøkelsen. Norsk Pedagogisk Tidsskrift, 94(2), 112–123.
-45. Mosvold, R., Fauskanger, J., Jakobsen, A., & Melhus, K. (2009). Translating test items into Norwegian – without getting lost in translation? Nordic Studies in Mathematics Education, 14(4), 101–123.
-46. Mosvold, R. (2008, July 3). Real life connections in Japan and the Netherlands: National teaching patterns and cultural beliefs. International Journal of Mathematics Teaching and Learning. Retrieved October 19, 2009, from http://www.cimt.plymouth.ac.uk/journal/mosvold.pdf
-47. Fauskanger, J. & Mosvold, R. (2008). Kunnskaper og oppfatninger – implikasjoner for etterutdanning. Norsk Pedagogisk Tidsskrift, 92(3), 187–197.
+2. Hoover, M., Dahlgren, M., Mosvold, R., & Goffney, I. (2025). Conceptions of teaching and justice as pivotal to mathematics teacher educators’ thinking about mathematical knowledge for teaching. /Journal of Mathematics Teacher Education/, /28/, 601–627. https://doi.org/10.1007/s10857-023-09609-z 
+3. Senden, B., Jentsch, A., Teig, N., Nilsen, T., Fauskanger, J., Frågåt, T., Maugesten, M., Mork, S. M., Mosvold, R., Nortvedt, G. A., Olufsen, M., Sjøberg, M., Staberg, R. L., Selling, A., Stovner, R. B., & Ødegaard, M. (2025). Context matters: adapting and validating the TEDS-instruct observation instrument assessing teaching quality for its use in Norwegian primary education. /Frontiers in Education, 10/. https://doi.org/10.3389/feduc.2025.1483092
+4. Bjuland, R., Fauskanger, J., & Mosvold, R. (2024). Analyzing teachers’ narratives to identify potential impediments of professional development in mathematics. /Nordic Studies in Mathematics Education/, 29(3-4), 83–100. https://ncm.gu.se/wp-content/uploads/2024/11/29_34_083100_bjuland.pdf
+5. Mosvold, R., Fauskanger, J., & Bjuland, R. (2024). Using Quantitative Text Analysis to Investigate Communication in Practice-based Professional Development. /Journal of Educational Research in Mathematics/, 34(3), 485–510. https://doi.org/10.29275/jerm.2024.34.3.485
+6. Masina, F., & Mosvold, R. (2023). Impediments to learning problem-solving in Malawian lower secondary mathematics textbooks. /African Journal of Teacher Education and Development/, 2(1), a23. https://doi.org/10.4102/ajoted.v2i1.23
+7. Tyskerud, A., Mosvold, R., & Bjuland, R. (2023). Commognitive Conflicts in Mathematics Teachers' Pedagogical Discourse in Lesson Study. /Mathematics Teacher Education and Development/, 25(1), 81–92.
+8. Mosvold, R., Wæge, K., & Fauskanger, J. (2023). Teacher Time Out as a Site for Studying Mathematical Knowledge for Teaching. /The Journal of Mathematical Behavior/, 70, 101037. https://doi.org/10.1016/j.jmathb.2023.101037
+9. Mosvold, R. (2022). Mathematical knowledge for teaching in Africa 2014–2021: A review of literature. /African Journal of Teacher Education and Development/, 1(1), a10. https://doi.org/10.4102/ajoted.v1i1.10 
+10. Gobede, F., & Mosvold, R. (2022). Studying dilemmas of mathematics teaching in Southern Africa.  /African Journal of Teacher Education and Development, 1/ (1), a4. https://doi.org/10.4102/ajoted.v1i1.4
+11. Gobede, F., Mosvold, R., & Jakobsen, A. (2022). Comparing two frameworks for exploring the quality of mathematics teaching in a Malawian primary classroom. African Journal of Research in Mathematics, Science and Technology Education. https://doi.org/10.1080/18117295.2022.2100662
+12. Justnes, C. N., & Mosvold, R. (2022). Scrutinizing Norwegian kindergarten teachers’ considerations about talk moves. Nordic Studies in Mathematics Education, 27(2), 5–20.
+13. Maugesten, M., Mosvold , R., & Fauskanger , J. (2021). Matematikklæreres refleksjoner om egne undervisningsutfordringer. Acta Didactica Norden, 15(1). https://doi.org/10.5617/adno.8640  
+14. Jankvist, U.T., Clark, K.M., & Mosvold, R. (2020). Developing mathematical knowledge for teaching teachers: potentials of history of mathematics in teacher educator training. Journal of Mathematics Teacher Education, 23(3), 311–332. doi:10.1007/s10857-018-09424-x
+15. Mosvold, R., Fauskanger, J., & Wæge, K. (2018). Fra undervisningskunnskap i matematikk til kjernepraksiser – endringer i grunnskolelærerutdanningens matematikkfag. Uniped, 41(4), 401–411.
+16. Tyskerud, A., & Mosvold, R. (2018). Scrutinizing teacher-learner interactions on volume. Nordic Studies in Mathematics Education, 23(2), 49–67. 
+17. Larssen, D.L.S., Cajkler, W., Mosvold, R., Bjuland, R., Helgevold, N., Fauskanger, J., Wood, P., Baldry, F., Jakobsen, A., Bugge, H.E., Næsheim-Bjørkvik, G., & Norton, J. (2018). A literature review of lesson study in initial teacher education: perspectives about learning and observation. International Journal for Lesson & Learning Studies, 7(1), 8–22.
+18. Mosvold, R. (2017). Studier av undervisningskunnskap i matematikk: Internasjonale trender og nordiske bidrag. Nordic Studies in Mathematics Education, 22(2), 51–69.
+19. Sæbbe, P.-E. & Mosvold, R. (2016). Initiating a conceptualization of the professional work of teaching mathematics in kindergarten in terms of discourse. Nordic Studies in Mathematics Education, 21(4), 79–93.
+20. Fauskanger, J. & Mosvold, R. (2016). Lærerarbeidets matematiske undervisningsoppgaver. Nordic Studies in Mathematics Education, 21(3), 73–88.
+21. Mosvold, R., Hanssen, B., & Fauskanger, J. (2016). På jakt etter fagdidaktikk i nasjonale retningslinjer for grunnskolelærerutdanningens matematikkfag. Acta Didactica Norge, 10(3), Art. 6.
+22. Fauskanger, J. & Mosvold, R. (2016). Why are mathematics teachers “not sure”? Mathematics Teacher Education and Development, 18(2), 107–123.
+23. Mosvold, R. & Bjuland, R. (2016). Positioning in identifying narratives of/about pre-service mathematics teachers in field practice. Teaching and Teacher Education, 58, 90–98. DOI: 10.1016/j.tate.2016.05.005
+24. Fauskanger, J., Mosvold, R., & Kristensen, M. (2016). Født sånn, eller blitt sånn? Matematikklæreres oppfatninger om evnen til å undervise. Acta Didactica Norge, 10(1), Art. 7.
+25. Mosvold, R. & Ohnstad, F. O. (2016). Profesjonsetiske perspektiver på læreres omtaler av elever. Norsk Pedagogisk Tidsskrift, 100(1), 26–36.
+26. Hoover, M., Mosvold, R., Ball, D. L., & Lai, Y. (2016). Making progress on mathematical knowledge for teaching. The Mathematics Enthusiast, 13(1–2), 3–34. 
+27. Bjuland, R. & Mosvold, R. (2015). Lesson study in teacher education: learning from a challenging case. Teaching and Teacher Education, 52, 83–90.
+28. Mosvold, R. (2015). Lærerstudenters tingliggjøring av elevers prestasjoner. Tidsskriftet FoU i praksis, 9(1), 51–66.
+29. Fauskanger, J. & Mosvold, R. (2015). En metodisk studie av innholdsanalyse – med analyser av matematikklæreres undervisningskunnskap som eksempel. Nordic Studies in Mathematics Education, 20(2), 79–96.
+30. Mosvold, R. & Fauskanger, J. (2015). Kartlegging av læreres kunnskap er ikke enkelt. Acta Didactica Norge, 9(1), Art.nr. 7.
+31. Mosvold, R. & Bjuland, R. (2015). Lærerstudenters utvikling av matematikklæreridentitet. Norsk Pedagogisk Tidsskrift, 99(2), 97–109.
+32. Jankvist, U. T., Mosvold, R., Fauskanger, J., & Jakobsen, A. (2015). Analysing the use of history of mathematics through MKT. International Journal of Mathematical Education in Science and Technology, 46(4), 495–507.
+33. Bjuland, R. & Mosvold, R. (2014). Lærerstudenters refleksjoner om utvikling av læringsfellesskap. Uniped – Tidsskrift for Universitets- og Høgskolepedagogikk, 37(4), 46–57.
+34. Hoover, M., Mosvold, R. & Fauskanger, J. (2014). Common tasks of teaching as a resource for measuring professional content knowledge internationally. Nordic Studies in Mathematics Education, 19(3–4), 7–20.
+35. Fauskanger, J. & Mosvold, R. (2014). Studying teachers’ knowledge by the use of multiple-choice items. The case of “I’m not sure”. Nordic Studies in Mathematics Education, 19(3–4), 41–55.
+36. Mosvold, R. & Fauskanger, J. (2014, September 25). Teachers’ beliefs about mathematical horizon content knowledge. International Journal for Mathematics Teaching and Learning. Retrieved September 26, 2014, from http://www.cimt.plymouth.ac.uk/journal/mosvold2.pdf
+37. Fauskanger, J. & Mosvold, R. (2014). Innholdsanalysens muligheter i utdanningsforskning. Norsk Pedagogisk Tidsskrift, 98(2), 127–139.
+38. Mosvold, R., Jakobsen, A., & Jankvist, U.T. (2014). How mathematical knowledge for teaching may profit from the study of history of mathematics. Science & Education, 23(1), 47–60.
+39. Mosvold, R. & Fauskanger, J. (2013). Teachers’ beliefs about mathematical knowledge for teaching definitions. International Electronic Journal of Mathematics Education, 8(2–3), 43–61.
+40. Sæbbe, P.E. & Mosvold, R. (2013). “Han går oppover mens han går nedover!” Femåringers refleksjoner om vertikal forflytning i forbindelse med klatring. Nordisk barnehageforskning, 6, art. nr. 18, 1–15.
+41. Fauskanger, J., Jakobsen, A., Mosvold, R., & Bjuland, R. (2012). Analysis of psychometric properties as part of an iterative adaptation process of MKT items for use in other countries. ZDM – The International Journal of Mathematics Education, 44(3), 387–399.
+42. Ng, D., Mosvold, R., & Fauskanger, J. (2012). Translating and Adapting the Mathematical Knowledge for Teaching (MKT) Measures: The Cases of Indonesia and Norway. The Mathematics Enthusiast, 9(1&2), 149–178.
+43. Fauskanger, J., Mosvold, R., Bjuland, R., & Jakobsen, A. (2011). Does the format matter? How the multiple-choice format might complicate the MKT items. Nordic Studies in Mathematics Education, 16(4), 45–67.
+44. Mosvold, R. & Bjuland, R. (2011). An activity theory view on learning studies. International Journal of Early Childhood, 43(3), 261–275.
+45. Fauskanger, J. & Mosvold, R. (2010). Undervisningskunnskap i matematikk: Tilpasning av en amerikansk undersøkelse til norsk, og læreres opplevelse av undersøkelsen. Norsk Pedagogisk Tidsskrift, 94(2), 112–123.
+46. Mosvold, R., Fauskanger, J., Jakobsen, A., & Melhus, K. (2009). Translating test items into Norwegian – without getting lost in translation? Nordic Studies in Mathematics Education, 14(4), 101–123.
+47. Mosvold, R. (2008, July 3). Real life connections in Japan and the Netherlands: National teaching patterns and cultural beliefs. International Journal of Mathematics Teaching and Learning. Retrieved October 19, 2009, from http://www.cimt.plymouth.ac.uk/journal/mosvold.pdf
+48. Fauskanger, J. & Mosvold, R. (2008). Kunnskaper og oppfatninger – implikasjoner for etterutdanning. Norsk Pedagogisk Tidsskrift, 92(3), 187–197.
 
 ** Book Chapters 
 1. Mosvold, R. (2024). PISA og den internasjonale forskningen. I A. Pettersen & F. Jensen (red.), Matematisk kompetanse – i dybden på resultater fra PISA 2022 (Kap. 11, s. 251–272). Cappelen Damm Akademisk. https://doi.org/10.23865/cdf.222.ch11
