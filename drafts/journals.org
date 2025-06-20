@@ -27,7 +27,7 @@ Below are some major journals of mathematics education:
 21. [[https://www.tandfonline.com/journals/upri20][PRIMUS – Problems, Resources, and Issues in Mathematics Undergraduate Studies]] (Level 1)
 22. [[http://www.pythagoras.org.za/index.php/pythagoras][Pythagoras]] (Level 1)
 23. [[http://hipatiapress.com/hpjournals/index.php/redimat][REDIMAT – Journal of Research in Mathematics Education]] (Level 1) 
-24. [[http://www.tandfonline.com/toc/rrme20/current][Research in Mathematics Education]] (Level 1) 
+24. [[http://www.tandfonline.com/toc/rrme20/current][Research in Mathematics Education]] (Level 2) 
 25. [[http://onlinelibrary.wiley.com/journal/10.1111/%28ISSN%291949-8594][School Science and Mathematics]] (Level 1)
 26. [[http://link.springer.com/journal/11191][Science & Education]] (Level 1)
 27. [[http://teamat.oxfordjournals.org/][Teaching Mathematics and its Applications]] (Level 1)
